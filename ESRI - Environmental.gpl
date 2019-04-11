@@ -1,0 +1,57 @@
+GIMP Palette
+Name: ESRI - Environmental
+Columns: 4
+#
+182 239 127 Tree, Deciduous, Top
+184 220 227 Air
+196 138 182 Vandal, Alcohol Involved
+205 46 49 Communication, Telephone
+210 211 199 Test/Sample, Sediment
+216 129 34 Test/Sample, Overfill
+216 137 159 Flag
+221 177 113 Combi Sewer Overflow (left)
+228 208 155 Test/Sample, Water
+231 213 220 Test/Sample, Shellfish
+236 202 82 Response Vehicle (left)
+237 212 142 Landfill, Construction, Demolition
+242 224 174 Mollusk Shell
+242 228 134 Underground Injection
+243 235 194 Test/Sample, Shellfish
+250 99 0 Earth Mover (right)
+252 225 71 Tire Pile
+253 195 104 WWTF, Commercial
+255 239 164 Surface Spill
+0 0 0 Black
+58 172 106 Tree, Coniferous
+84 131 227 Property Marker
+85 134 189 Well, Abandoned, Destroyed
+109 193 131 Tree, Coniferous, Top
+124 136 191 Uncontrolled DOD
+125 202 73 Wetland
+138 204 89 Above Ground Storage Tank
+144 145 239 Droplet, Water
+144 240 80 Droplet, Product
+150 138 196 Vandal
+150 205 96 Tree, Deciduous, Side
+159 125 75 Sand/Salt Storage
+164 226 118 Compost
+166 106 19 Catch Basin
+181 146 96 Septage Disposal/Storage
+255 255 255 White
+230 85 58 Lead Contaminant
+230 156 21 Sulfur Contaminant
+144 203 50 Chlorine Contaminant
+122 25 115 ESI 1
+225 0 82 ESI 10A
+244 160 189 ESI 10B
+208 73 78 ESI 10C
+192 114 66 ESI 10D
+174 147 192 ESI 2
+0 153 215 ESI 3
+201 230 249 ESI 4
+140 204 202 ESI 5
+0 159 98 ESI 6A
+199 223 0 ESI 6B
+199 195 0 ESI 7
+249 244 0 ESI 8A
+242 175 46 ESI 9

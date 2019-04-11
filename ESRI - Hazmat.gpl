@@ -1,0 +1,32 @@
+GIMP Palette
+Name: ESRI - Hazmat
+Columns: 4
+#
+210 210 210 Flood 1
+107 126 147 Flood 2
+91 11 125 Construction 1
+170 117 219 Construction 2
+25 25 147 Noise 1
+210 210 210 Noise 2
+184 22 6 Fume 1
+191 209 0 Fume 2
+255 127 0 Biohazard 1
+255 255 0 Chemical
+188 0 0 Radiation 1
+255 188 0 Radiation 2
+225 199 31 Poison
+255 0 0 EMT 1
+242 197 29 EMT 2
+91 122 228 EMT 3
+255 0 0 Fire
+243 192 0 Blasting Agents
+223 0 41 Combustible 1
+79 123 191 Dangerous
+166 149 195 Flammable
+27 151 92 Flammable Gas
+0 123 95 Flammable Gas 2
+79 123 191 NFPA Blue
+249 244 0 NFPA Yellow
+205 46 49 NFPA Red
+0 145 127 Exit Green
+255 255 255 White
