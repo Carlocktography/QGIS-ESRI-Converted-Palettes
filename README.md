@@ -1,5 +1,5 @@
 # QGIS-ESRI-Converted-Palettes
-QGIS GPL palettes converted from ESRI styles using Nyall Dawson's SLYR tool.
+QGIS palettes converted from ESRI styles using Nyall Dawson's SLYR tool.
 
 ## Inspired by the work of StephSaephan.  
 https://github.com/StephSaephan/QGIS-ESRI-Converted-Styles
@@ -13,4 +13,4 @@ https://opengislab.com/blog/2019/3/16/converting-esri-styles-to-qgis-styles-usin
 ## FOLDER CONTENTS:  
 UNREADABLE - Contains style files which did not contain any color palettes and generated empty GPL files.
 
-These QGIS GPL files are being shared as-is for those who wish to have more symbology or more ESRI-like symbology in QGIS. Download and use them as you wish, but I make no guarantee of any kind on your use of the files.
+These QGIS files are being shared as-is for those who wish to have more symbology or more ESRI-like symbology in QGIS. Download and use them as you wish.
