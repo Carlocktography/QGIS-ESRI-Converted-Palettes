@@ -1,0 +1,85 @@
+GIMP Palette
+Name: ESRI - Civic
+Columns: 4
+#
+248 253 110 Residential - Single Family (R-1)
+254 250 38 Residential - Light Multiple (R-2)
+254 216 39 Residential - Medium Multiple (R-3)
+254 177 25 Residential - Heavy Multiple (R-4)
+100 150 106 Residential - Estate (RE)
+254 144 16 Residential - Mobilehome (R-T)
+226 51 82 Commercial - General  (C-G)
+226 58 63 Commercial - Neighborhood (C-N)
+191 57 151 Commercial - Professional (C-P)
+220 120 177 Commercial - Tourist  (C-T)
+240 237 23 Planned Development - (PD)
+255 0 0 Planned Development - Commercial (PD-C)
+240 237 23 Planned Development - Residential (PD-R)
+101 199 234 Manufacturing - Light Industrial (M-1)
+101 127 241 Manufacturing - General Industrial (M-2)
+161 33 240 Industrial - Park (I-P)
+197 135 243 Industrial - Park Offices (I-PO)
+100 184 77 Rural Agricultural (RA)
+214 147 166 Hospital Professional (H-P)
+172 176 211 Specific Plan Area (S-P)
+227 227 178 City Owned (CT-O)
+202 217 226 Federally Owned (F-O)
+232 199 204 Public Owned (PO)
+200 133 68 Lien Property (LP)
+130 130 130 Condemned (CND)
+121 200 0 Golf & Recreation (G-R)
+0 166 57 Bicycle Route (B-R)
+150 231 138 Park & Open Space (POS)
+197 206 0 Horticulture & Agriculture (H-A)
+140 235 173 Fruit & Vegetable Agriculture (FVA)
+239 91 132 Public Safety (PS)
+255 255 255 Custom Designation (C-D)
+159 164 238 Airport (AIR)
+169 171 136 Business Services (BSV)
+231 215 203 Financial Services (FS)
+245 245 220 No constraints -- private ownership
+255 255 0 Residence or accomodation functions
+255 255 0 Residential activities
+255 255 0 Residential buildings
+144 238 144 Site in natural state
+255 0 0 Commercial buildings and other specialized structures
+245 245 220 Developing site
+255 0 0 General Sales or services
+255 0 0 Shopping, business or trade activities
+0 0 255 Some constraints -- easements or restricted use
+205 183 158 Developed site -- crops, grazing, forestry, etc.
+160 32 240 Industrial, manufacturing, and waste-related activities
+0 0 139 Limited restrictions -- leased or tenancy restrictions
+160 32 240 Manufacturing and wholesale trade
+160 32 240 Public assembly structures
+139 126 102 Developed site -- no buildings and no structures
+0 0 255 Institutional or community facilities
+144 238 144 Public restrictions -- local, state, federal ownership
+0 0 255 Social, institutional, or infrastructure-related activities
+190 190 190 Transportation, communication, information, and utilities
+144 238 144 Arts, entertainment, and recreation
+139 90 43 Developed site -- nonbuilding structures
+0 100 0 Other public use restrictions -- regional, special districts, etc
+190 190 190 Transportation-related facilities
+190 190 190 Travel or movement activities
+0 0 255 Education, public admin., health care, and other inst.
+139 35 35 Developed site -- with buildings
+47 79 79 Mass assembly of people
+107 142 35 Nonprofit ownership restrictions
+133 133 133 Utility and other nonbuilding structures
+248 210 210 Military installations
+0 139 139 Construction-related businesses
+255 192 203 Specialized military structures
+34 139 34 Developed site -- with parks
+190 190 190 Joint ownership character -- public entities
+144 238 144 Leisure activities
+0 0 0 Joint ownership character -- public, private, nonprofit, etc.
+34 139 34 Natural resource-related activities
+34 139 34 Sheds, farm buildings, or agricultural facilities
+85 26 139 Mining and extraction establishments
+211 211 211 Not applicable to this dimension
+255 255 255 Not applicable to this dimension
+34 139 34 Agriculture, forestry, fishing and hunting
+255 255 255 No human activity or unclassifiable activity
+255 255 255 No structure
+255 255 255 Unclassifiable site development character

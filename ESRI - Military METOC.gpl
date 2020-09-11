@@ -1,0 +1,9 @@
+GIMP Palette
+Name: ESRI - Military METOC
+Columns: 4
+#
+0 0 255 Blue - Pressure Systems
+189 154 56 Brown - Bounded Areas
+0 128 0 Green - Bounded Areas
+0 192 0 Green - Pressure Systems
+198 16 33 Red - Pressure Systems

@@ -1,0 +1,52 @@
+GIMP Palette
+Name: ESRI - Forestry
+Columns: 4
+#
+212 232 197 Primary Forest
+163 211 157 Primary Forest-Wilderness
+245 249 236 Land Admin by Other NF
+253 233 170 BLM
+255 251 199 Indian Reservations
+234 225 189 NPS and Federal
+212 202 225 State Public Use Land
+244 241 247 State Land Subj to Lease
+255 253 237 Undesignated Exterior Area
+195 98 31 Brown Features and Type
+226 0 127 Red Features and Type
+0 0 0 Black Features and Type
+0 178 235 Blue Features and Type
+191 226 248 Water Areas
+135 201 137 Dark Green Route Overprint
+245 245 178 Light Green Route Overprint
+241 175 0 Orange Route Overprint
+246 217 223 FT White-Red-Jack Pine
+81 189 179 FT Spruce-Fir
+140 137 70 FT Longleaf-Slash Pine
+222 211 0 FT Loblolly-Shortleaf Pine
+0 175 77 FT Oak-Pine
+127 143 13 FT Oak-Hickory
+0 120 108 FT Oak-Gum-Cypress
+0 158 108 FT Elm-Ash-Cottonwood
+101 97 51 FT Maple-Beech-Birch
+249 165 60 FT Aspen-Birch
+249 207 111 FT Douglas-Fir
+229 102 211 FT Hemlock-Sitka Spruce
+146 80 0 FT Ponderosa Pine
+255 221 0 FT Western White Pine
+255 115 14 FT Lodgepole Pine
+242 134 79 FT Larch
+0 74 174 FT Fir-Spruce
+149 87 55 FT Redwood
+0 142 192 FT Chaparral
+255 115 147 FT Pinyon-Juniper
+28 135 221 FT Western Hardwoods
+242 20 69 FT Aspen-Birch-Pine
+140 140 140 FT Unforested
+255 0 0 Zeta Red
+250 57 33 Hot Spot Red
+68 115 220 Helispot Blue
+0 56 147 Base Blue
+68 115 220 Incident Blue
+103 63 208 Free Diving Violet Blue
+205 46 49 Marker Red
+255 255 255 White

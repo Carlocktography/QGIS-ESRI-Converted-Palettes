@@ -1,0 +1,58 @@
+GIMP Palette
+Name: ESRI - Survey
+Columns: 4
+#
+107 101 47 Bedrock 1
+127 143 13 Bedrock 2
+203 243 0 Bedrock 3
+94 207 241 Bedrock 4
+19 66 63 Bedrock 5
+241 241 208 Slope 1
+169 165 97 Slope 2
+210 213 190 Slope 3
+147 147 119 Slope 4
+85 82 66 Slope 5
+227 250 117 Slope 6
+179 234 0 Slope 7
+88 218 0 Slope 8
+0 120 81 Slope 9
+186 196 154 Tidal Inundation 1
+119 143 86 Tidal Inundation 2
+101 114 72 Tidal Inundation 3
+226 240 233 Tidal Inundation 4
+200 202 160 Elevation 3
+121 124 76 Elevation 4
+90 93 49 Elevation 5
+74 92 60 Elevation 6
+216 214 156 Soil 1
+140 137 70 Soil 2
+101 97 51 Soil 3
+203 188 89 Soil 4
+173 171 0 Soil 5
+0 162 233 Surface Drainage 1
+79 209 248 Surface Drainage 2
+191 241 231 Surface Drainage 3
+250 252 164 Surface Drainage 4
+140 228 139 Surface Drainage 5
+224 216 233 Flood Inundation 1
+255 0 0 Monument Red
+197 217 234 Flood Inundation 2
+177 235 247 Flood Inundation 3
+94 207 241 Flood Inundation 4
+253 254 133 Urban Suitability 1
+211 206 200 Urban Suitability 2
+140 228 139 Urban Suitability 3
+101 97 51 Urban Suitability 4
+0 198 196 Urban Suitability 5
+45 184 42 Urban Suitability 6
+0 120 81 Urban Suitability 7
+210 213 190 Urban Suitability 8
+190 185 53 Urban Suitability 9
+166 216 247 Water Res Blue
+0 0 0 Black
+255 255 255 White
+198 195 133 Urban Suitability 10
+125 179 113 Urban Suitability 11
+0 134 127 Urban Suitability 12
+0 160 185 Urban Suitability 13
+0 106 122 Urban Suitability 14

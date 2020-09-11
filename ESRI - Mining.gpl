@@ -1,0 +1,53 @@
+GIMP Palette
+Name: ESRI - Mining
+Columns: 4
+#
+255 0 0 Ore 1
+242 185 0 Ore 2
+249 244 0 Ore 3
+125 198 34 Ore 4
+0 178 235 Ore 5
+61 17 123 Ore 6
+0 97 53 E.Proterozoic 1
+209 99 117 E.Proterozoic 2
+163 0 41 E.Proterozoic 3
+150 150 150 Holocene
+9 129 176 Lower Permian 1
+59 114 163 Lower Permian 2
+128 204 227 Mid Jurassic 1
+152 217 195 Mid Jurassic 2
+13 145 168 Mid Jurassic 3
+163 112 8 Mid Pleistocene 1
+212 162 83 Mid Pleistocene 2
+76 0 115 Mid Proterozoic 1
+224 108 115 Mid Proterozoic 2
+0 140 133 Mid-Low Triassic
+16 0 156 Mississipian
+214 0 96 Oligocene
+242 181 97 Pleistocene
+255 255 190 Pleistocene to Low Holocene 1
+245 190 64 Pleistocene to Low Holocene 2
+245 245 138 Pleistocene to Low Holocene 3
+148 135 129 Precambrian
+214 214 232 Upper and Mid Permian 1
+84 102 194 Upper and Mid Permian 2
+0 128 84 Upper Cretaceous 1
+133 133 48 Upper Cretaceous 2
+130 179 38 Upper Cretaceous 3
+6 140 15 Upper Cretaceous 4
+179 140 23 Upper Cretaceous 5
+33 156 247 Upper Jurassic
+245 171 51 Upper Miocene to Mid Pleistocene 1
+232 209 158 Upper Miocene to Mid Pleistocene 2
+163 110 94 Upper Miocene to Mid Pleistocene 3
+163 51 0 Upper Miocene to Pliocene
+135 0 106 Upper Permian 1
+110 92 125 Upper Permian 2
+252 225 141 Upper Pleistocene to Holocene 1
+240 240 179 Upper Pleistocene to Holocene 2
+238 241 160 Upper Pleistocene to Holocene 3
+237 217 173 Upper Pleistocene to Holocene 4
+0 135 124 Upper Triassic 1
+181 224 161 Upper Triassic 2
+255 255 190 Uppermost Pleistocene to L.Holocene
+0 0 0 Pit Black

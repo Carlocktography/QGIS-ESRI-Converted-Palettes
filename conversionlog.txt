@@ -1,0 +1,4076 @@
+Processing algorithm 1/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - 3D '
+'Basic.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - 3D '
+'Basic.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - 3D Basic.style
+Found 0 colors
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.10 seconds
+Results:
+{'COLOR_COUNT': 0,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - 3D '
+'Basic.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 2/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - 3D '
+'Billboards.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - 3D '
+'Billboards.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - 3D Billboards.style
+Found 145 colors
+1/145: Topaz Sand
+2/145: Yucca Yellow
+3/145: Olivine Yellow
+4/145: Tzavorite Green
+5/145: Indicolite Green
+6/145: Sodalite Blue
+7/145: Sugilite Sky
+8/145: Lepidolite Lilac
+9/145: Rhodolite Rose
+10/145: Gray 10%
+11/145: Medium Coral
+12/145: Cantaloupe
+13/145: Mango
+14/145: Autunite Yellow
+15/145: Lemongrass
+16/145: Light Apple
+17/145: Beryl Green
+18/145: Apatite Blue
+19/145: Yogo Blue
+20/145: Heliotrope
+21/145: Fushia Pink
+22/145: Gray 20%
+23/145: Mars Red
+24/145: Fire Red
+25/145: Electron Gold
+26/145: Solar Yellow
+27/145: Peridot Green
+28/145: Medium Apple
+29/145: Tourmaline Green
+30/145: Big Sky Blue
+31/145: Cretean Blue
+32/145: Amethyst
+33/145: Ginger Pink
+34/145: Gray 30%
+35/145: Poinsettia Red
+36/145: Flame Red
+37/145: Seville Orange
+38/145: Citroen Yellow
+39/145: Macaw Green
+40/145: Quetzel Green
+41/145: Chrysophase
+42/145: Moorea Blue
+43/145: Lapis Lazuli
+44/145: Anemone Violet
+45/145: Peony Pink
+46/145: Gray 40%
+47/145: Tuscan Red
+48/145: Cherry Cola
+49/145: Raw Umber
+50/145: Olivenite Green
+51/145: Tarragon Green
+52/145: Leaf Green
+53/145: Malachite Green
+54/145: Delft Blue
+55/145: Ultra Blue
+56/145: Dark Amethyst
+57/145: Cattleya Orchid
+58/145: Gray 50%
+59/145: Dark Umber
+60/145: Cherrywood Brown
+61/145: Burnt Umber
+62/145: Dark Olivenite
+63/145: Spruce Green
+64/145: Fir Green
+65/145: Peacock Green
+66/145: Steel Blue
+67/145: Dark Navy
+68/145: Ultramarine
+69/145: Purple Heart
+70/145: Gray 60%
+71/145: Rose Dust
+72/145: Soapstone Dust
+73/145: Tecate Dust
+74/145: Lime Dust
+75/145: Apple Dust
+76/145: Sage Dust
+77/145: Turquoise Dust
+78/145: Blue Gray Dust
+79/145: Violet Dust
+80/145: Lilac Dust
+81/145: Tudor Rose Dust
+82/145: Gray 70%
+83/145: Copy of  Medium Coral
+84/145: Orange Dust
+85/145: Medium Sand
+86/145: Medium Yellow
+87/145: Medium Lime
+88/145: Medium Key Lime
+89/145: Light Vert
+90/145: Oxide Blue
+91/145: Medium Azul
+92/145: Medium Lilac
+93/145: Medium Fushia
+94/145: Gray 80%
+95/145: Tulip Pink
+96/145: Nubuck Tan
+97/145: Light Sienna
+98/145: Light Olivenite
+99/145: Medium Olivenite
+100/145: Fern Green
+101/145: Jadeite
+102/145: Atlantic Blue
+103/145: Pacific Blue
+104/145: Aster Purple
+105/145: Protea Pink
+106/145: Black
+107/145: Cordovan Brown
+108/145: Cocoa Brown
+109/145: Leather Brown
+110/145: Lichen Green
+111/145: Moss Green
+112/145: Lotus Pond Green
+113/145: Deep Forest
+114/145: Larkspur Blue
+115/145: Glacier Blue
+116/145: Blackberry
+117/145: Cabernet
+118/145: Arctic White
+119/145: Rose Quartz
+120/145: Sahara Sand
+121/145: Dusk Coral 3D
+122/145: Sunset Orange 3D
+123/145: Sunrise Orange 3D
+124/145: Dawn Ivory 3D
+125/145: Early Desert Tan 3D
+126/145: Dawn Yellow 3D
+127/145: Midday Yellow 3D
+128/145: Evening Haze Yellow 3D
+129/145: Twilight Green 3D
+130/145: Day Cactus Green 3D
+131/145: Day Lily Green 3D
+132/145: Evening Field Green 3D
+133/145: Early Tropic Sky 3D
+134/145: Water Body 3D
+135/145: Twilight Blue 3D
+136/145: Dusk Blue 3D
+137/145: Early Sky Blue 3D
+138/145: Evening Rose 3D
+139/145: Night Sky Violet 3D
+140/145: Sunset Pink 3D
+141/145: Dawn Rose 3D
+142/145: Evening Silver 3D
+143/145: Night Sky 3D
+144/145: Midnight Sky 3D
+145/145: Day White Sky 3D
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.92 seconds
+Results:
+{'COLOR_COUNT': 145,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - 3D '
+'Billboards.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 3/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - 3D '
+'Buildings.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - 3D '
+'Buildings.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - 3D Buildings.style
+Found 0 colors
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.15 seconds
+Results:
+{'COLOR_COUNT': 0,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - 3D '
+'Buildings.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 4/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - 3D '
+'Industrial.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - 3D '
+'Industrial.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - 3D Industrial.style
+Found 0 colors
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.14 seconds
+Results:
+{'COLOR_COUNT': 0,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - 3D '
+'Industrial.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 5/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - 3D '
+'Residential.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - 3D '
+'Residential.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - 3D Residential.style
+Found 0 colors
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.18 seconds
+Results:
+{'COLOR_COUNT': 0,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - 3D '
+'Residential.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 6/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - 3D '
+'Street Furniture.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - 3D '
+'Street Furniture.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - 3D Street Furniture.style
+Found 0 colors
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.15 seconds
+Results:
+{'COLOR_COUNT': 0,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - 3D '
+'Street Furniture.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 7/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - 3D '
+'Trees.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - 3D '
+'Trees.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - 3D Trees.style
+Found 0 colors
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.14 seconds
+Results:
+{'COLOR_COUNT': 0,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - 3D '
+'Trees.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 8/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - 3D '
+'Vehicles.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - 3D '
+'Vehicles.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - 3D Vehicles.style
+Found 0 colors
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.13 seconds
+Results:
+{'COLOR_COUNT': 0,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - 3D '
+'Vehicles.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 9/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'ArcGIS_Explorer.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'ArcGIS_Explorer.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - ArcGIS_Explorer.style
+Found 0 colors
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.15 seconds
+Results:
+{'COLOR_COUNT': 0,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'ArcGIS_Explorer.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 10/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'ArcScene Basic.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'ArcScene Basic.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - ArcScene Basic.style
+Found 145 colors
+1/145: Topaz Sand
+2/145: Yucca Yellow
+3/145: Olivine Yellow
+4/145: Tzavorite Green
+5/145: Indicolite Green
+6/145: Sodalite Blue
+7/145: Sugilite Sky
+8/145: Lepidolite Lilac
+9/145: Rhodolite Rose
+10/145: Gray 10%
+11/145: Medium Coral
+12/145: Cantaloupe
+13/145: Mango
+14/145: Autunite Yellow
+15/145: Lemongrass
+16/145: Light Apple
+17/145: Beryl Green
+18/145: Apatite Blue
+19/145: Yogo Blue
+20/145: Heliotrope
+21/145: Fuchsia Pink
+22/145: Gray 20%
+23/145: Mars Red
+24/145: Fire Red
+25/145: Electron Gold
+26/145: Solar Yellow
+27/145: Peridot Green
+28/145: Medium Apple
+29/145: Tourmaline Green
+30/145: Big Sky Blue
+31/145: Cretan Blue
+32/145: Amethyst
+33/145: Ginger Pink
+34/145: Gray 30%
+35/145: Poinsettia Red
+36/145: Flame Red
+37/145: Seville Orange
+38/145: Citron Yellow
+39/145: Macaw Green
+40/145: Quetzel Green
+41/145: Chrysoprase
+42/145: Moorea Blue
+43/145: Lapis Lazuli
+44/145: Anemone Violet
+45/145: Peony Pink
+46/145: Gray 40%
+47/145: Tuscan Red
+48/145: Cherry Cola
+49/145: Raw Umber
+50/145: Olivenite Green
+51/145: Tarragon Green
+52/145: Leaf Green
+53/145: Malachite Green
+54/145: Delft Blue
+55/145: Ultra Blue
+56/145: Dark Amethyst
+57/145: Cattleya Orchid
+58/145: Gray 50%
+59/145: Dark Umber
+60/145: Cherrywood Brown
+61/145: Burnt Umber
+62/145: Dark Olivenite
+63/145: Spruce Green
+64/145: Fir Green
+65/145: Peacock Green
+66/145: Steel Blue
+67/145: Dark Navy
+68/145: Ultramarine
+69/145: Purple Heart
+70/145: Gray 60%
+71/145: Rose Dust
+72/145: Soapstone Dust
+73/145: Tecate Dust
+74/145: Lime Dust
+75/145: Apple Dust
+76/145: Sage Dust
+77/145: Turquoise Dust
+78/145: Blue Gray Dust
+79/145: Violet Dust
+80/145: Lilac Dust
+81/145: Tudor Rose Dust
+82/145: Gray 70%
+83/145: Medium Coral
+84/145: Orange Dust
+85/145: Medium Sand
+86/145: Medium Yellow
+87/145: Medium Lime
+88/145: Medium Key Lime
+89/145: Light Vert
+90/145: Oxide Blue
+91/145: Medium Azul
+92/145: Medium Lilac
+93/145: Medium Fuchsia
+94/145: Gray 80%
+95/145: Tulip Pink
+96/145: Nubuck Tan
+97/145: Light Sienna
+98/145: Light Olivenite
+99/145: Medium Olivenite
+100/145: Fern Green
+101/145: Jadeite
+102/145: Atlantic Blue
+103/145: Pacific Blue
+104/145: Aster Purple
+105/145: Protea Pink
+106/145: Black
+107/145: Cordovan Brown
+108/145: Cocoa Brown
+109/145: Leather Brown
+110/145: Lichen Green
+111/145: Moss Green
+112/145: Lotus Pond Green
+113/145: Deep Forest
+114/145: Larkspur Blue
+115/145: Glacier Blue
+116/145: Blackberry
+117/145: Cabernet
+118/145: Arctic White
+119/145: Rose Quartz
+120/145: Sahara Sand
+121/145: Dusk Coral 3D
+122/145: Sunset Orange 3D
+123/145: Sunrise Orange 3D
+124/145: Dawn Ivory 3D
+125/145: Early Desert Tan 3D
+126/145: Dawn Yellow 3D
+127/145: Midday Yellow 3D
+128/145: Evening Haze Yellow 3D
+129/145: Twilight Green 3D
+130/145: Day Cactus Green 3D
+131/145: Day Lily Green 3D
+132/145: Evening Field Green 3D
+133/145: Early Tropic Sky 3D
+134/145: Water Body 3D
+135/145: Twilight Blue 3D
+136/145: Dusk Blue 3D
+137/145: Early Sky Blue 3D
+138/145: Evening Rose 3D
+139/145: Night Sky Violet 3D
+140/145: Sunset Pink 3D
+141/145: Dawn Rose 3D
+142/145: Evening Silver 3D
+143/145: Night Sky 3D
+144/145: Midnight Sky 3D
+145/145: Day White Sky 3D
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.74 seconds
+Results:
+{'COLOR_COUNT': 145,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'ArcScene Basic.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 11/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Business.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Business.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - Business.style
+Found 0 colors
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.11 seconds
+Results:
+{'COLOR_COUNT': 0,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Business.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 12/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - C2 '
+'Military Operations.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - C2 '
+'Military Operations.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - C2 Military Operations.style
+Found 24 colors
+1/24: Black
+2/24: Blue
+3/24: Brown
+4/24: Dark Blue
+5/24: Dark Green
+6/24: Dark Purple
+7/24: Dark Red
+8/24: Dark Yellow
+9/24: Green
+10/24: Light Blue
+11/24: Light Brown
+12/24: Light Green
+13/24: Light Purple
+14/24: Light Red
+15/24: Light Yellow
+16/24: Medium Blue
+17/24: Medium Green
+18/24: Medium Purple
+19/24: Medium Red
+20/24: Medium Yellow
+21/24: Purple
+22/24: Red
+23/24: White
+24/24: Yellow
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.26 seconds
+Results:
+{'COLOR_COUNT': 24,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - C2 '
+'Military Operations.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 13/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - C2 '
+'UEI Air Track.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - C2 '
+'UEI Air Track.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - C2 UEI Air Track.style
+Found 0 colors
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.12 seconds
+Results:
+{'COLOR_COUNT': 0,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - C2 '
+'UEI Air Track.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 14/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - C2 '
+'UEI Ground Track Equipment.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - C2 '
+'UEI Ground Track Equipment.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - C2 UEI Ground Track Equipment.style
+Found 0 colors
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.14 seconds
+Results:
+{'COLOR_COUNT': 0,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - C2 '
+'UEI Ground Track Equipment.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 15/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - C2 '
+'UEI Ground Track Installations.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - C2 '
+'UEI Ground Track Installations.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - C2 UEI Ground Track Installations.style
+Found 0 colors
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.12 seconds
+Results:
+{'COLOR_COUNT': 0,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - C2 '
+'UEI Ground Track Installations.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 16/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - C2 '
+'UEI Ground Track Units.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - C2 '
+'UEI Ground Track Units.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - C2 UEI Ground Track Units.style
+Found 0 colors
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.19 seconds
+Results:
+{'COLOR_COUNT': 0,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - C2 '
+'UEI Ground Track Units.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 17/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - C2 '
+'UEI Sea Surface Track.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - C2 '
+'UEI Sea Surface Track.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - C2 UEI Sea Surface Track.style
+Found 0 colors
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.13 seconds
+Results:
+{'COLOR_COUNT': 0,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - C2 '
+'UEI Sea Surface Track.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 18/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - C2 '
+'UEI Space Track.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - C2 '
+'UEI Space Track.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - C2 UEI Space Track.style
+Found 0 colors
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.12 seconds
+Results:
+{'COLOR_COUNT': 0,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - C2 '
+'UEI Space Track.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 19/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - C2 '
+'UEI Special Operations Track.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - C2 '
+'UEI Special Operations Track.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - C2 UEI Special Operations Track.style
+Found 0 colors
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.12 seconds
+Results:
+{'COLOR_COUNT': 0,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - C2 '
+'UEI Special Operations Track.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 20/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - C2 '
+'UEI Subsurface Track.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - C2 '
+'UEI Subsurface Track.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - C2 UEI Subsurface Track.style
+Found 0 colors
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.13 seconds
+Results:
+{'COLOR_COUNT': 0,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - C2 '
+'UEI Subsurface Track.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 21/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - CADD '
+'GIS Center SDS 200.Style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'CADD GIS Center SDS 200.Style'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - CADD GIS Center SDS 200.Style
+Found 254 colors
+1/254: 0
+2/254: 1
+3/254: 2
+4/254: 3
+5/254: 4
+6/254: 5
+7/254: 6
+8/254: 7
+9/254: 8
+10/254: 9
+11/254: 10
+12/254: 11
+13/254: 12
+14/254: 13
+15/254: 14
+16/254: 15
+17/254: 16
+18/254: 17
+19/254: 18
+20/254: 19
+21/254: 20
+22/254: 21
+23/254: 22
+24/254: 23
+25/254: 24
+26/254: 25
+27/254: 26
+28/254: 27
+29/254: 28
+30/254: 29
+31/254: 30
+32/254: 31
+33/254: 32
+34/254: 33
+35/254: 34
+36/254: 35
+37/254: 36
+38/254: 37
+39/254: 38
+40/254: 39
+41/254: 40
+42/254: 41
+43/254: 42
+44/254: 43
+45/254: 44
+46/254: 45
+47/254: 46
+48/254: 47
+49/254: 48
+50/254: 49
+51/254: 50
+52/254: 51
+53/254: 52
+54/254: 53
+55/254: 54
+56/254: 55
+57/254: 56
+58/254: 57
+59/254: 58
+60/254: 59
+61/254: 60
+62/254: 61
+63/254: 62
+64/254: 63
+65/254: 64
+66/254: 65
+67/254: 66
+68/254: 67
+69/254: 68
+70/254: 69
+71/254: 70
+72/254: 71
+73/254: 72
+74/254: 73
+75/254: 74
+76/254: 75
+77/254: 76
+78/254: 77
+79/254: 78
+80/254: 79
+81/254: 80
+82/254: 81
+83/254: 82
+84/254: 83
+85/254: 84
+86/254: 85
+87/254: 86
+88/254: 87
+89/254: 88
+90/254: 89
+91/254: 90
+92/254: 91
+93/254: 92
+94/254: 93
+95/254: 94
+96/254: 95
+97/254: 96
+98/254: 97
+99/254: 98
+100/254: 99
+101/254: 100
+102/254: 101
+103/254: 102
+104/254: 103
+105/254: 104
+106/254: 105
+107/254: 106
+108/254: 107
+109/254: 108
+110/254: 109
+111/254: 110
+112/254: 111
+113/254: 112
+114/254: 113
+115/254: 114
+116/254: 115
+117/254: 116
+118/254: 117
+119/254: 118
+120/254: 119
+121/254: 120
+122/254: 121
+123/254: 122
+124/254: 123
+125/254: 124
+126/254: 125
+127/254: 126
+128/254: 127
+129/254: 128
+130/254: 129
+131/254: 130
+132/254: 131
+133/254: 132
+134/254: 133
+135/254: 134
+136/254: 135
+137/254: 136
+138/254: 137
+139/254: 138
+140/254: 139
+141/254: 140
+142/254: 141
+143/254: 142
+144/254: 143
+145/254: 144
+146/254: 145
+147/254: 146
+148/254: 147
+149/254: 148
+150/254: 149
+151/254: 150
+152/254: 151
+153/254: 152
+154/254: 153
+155/254: 154
+156/254: 155
+157/254: 156
+158/254: 157
+159/254: 158
+160/254: 159
+161/254: 160
+162/254: 161
+163/254: 162
+164/254: 163
+165/254: 164
+166/254: 165
+167/254: 166
+168/254: 167
+169/254: 168
+170/254: 169
+171/254: 170
+172/254: 171
+173/254: 172
+174/254: 173
+175/254: 174
+176/254: 175
+177/254: 176
+178/254: 177
+179/254: 178
+180/254: 179
+181/254: 180
+182/254: 181
+183/254: 182
+184/254: 183
+185/254: 184
+186/254: 185
+187/254: 186
+188/254: 187
+189/254: 188
+190/254: 189
+191/254: 190
+192/254: 191
+193/254: 192
+194/254: 193
+195/254: 194
+196/254: 195
+197/254: 196
+198/254: 197
+199/254: 198
+200/254: 199
+201/254: 200
+202/254: 201
+203/254: 202
+204/254: 203
+205/254: 204
+206/254: 205
+207/254: 206
+208/254: 207
+209/254: 208
+210/254: 209
+211/254: 210
+212/254: 211
+213/254: 212
+214/254: 213
+215/254: 214
+216/254: 215
+217/254: 216
+218/254: 217
+219/254: 218
+220/254: 219
+221/254: 220
+222/254: 221
+223/254: 222
+224/254: 223
+225/254: 224
+226/254: 225
+227/254: 226
+228/254: 227
+229/254: 228
+230/254: 229
+231/254: 230
+232/254: 231
+233/254: 232
+234/254: 233
+235/254: 234
+236/254: 235
+237/254: 236
+238/254: 237
+239/254: 238
+240/254: 239
+241/254: 240
+242/254: 241
+243/254: 242
+244/254: 243
+245/254: 244
+246/254: 245
+247/254: 246
+248/254: 247
+249/254: 248
+250/254: 249
+251/254: 250
+252/254: 251
+253/254: 252
+254/254: 253
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 1.28 seconds
+Results:
+{'COLOR_COUNT': 254,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'CADD GIS Center SDS 200.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 22/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - CADD '
+'GIS Center SDS 220.Style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'CADD GIS Center SDS 220.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - CADD GIS Center SDS 220.Style
+Found 254 colors
+1/254: 0
+2/254: 1
+3/254: 2
+4/254: 3
+5/254: 4
+6/254: 5
+7/254: 6
+8/254: 7
+9/254: 8
+10/254: 9
+11/254: 10
+12/254: 11
+13/254: 12
+14/254: 13
+15/254: 14
+16/254: 15
+17/254: 16
+18/254: 17
+19/254: 18
+20/254: 19
+21/254: 20
+22/254: 21
+23/254: 22
+24/254: 23
+25/254: 24
+26/254: 25
+27/254: 26
+28/254: 27
+29/254: 28
+30/254: 29
+31/254: 30
+32/254: 31
+33/254: 32
+34/254: 33
+35/254: 34
+36/254: 35
+37/254: 36
+38/254: 37
+39/254: 38
+40/254: 39
+41/254: 40
+42/254: 41
+43/254: 42
+44/254: 43
+45/254: 44
+46/254: 45
+47/254: 46
+48/254: 47
+49/254: 48
+50/254: 49
+51/254: 50
+52/254: 51
+53/254: 52
+54/254: 53
+55/254: 54
+56/254: 55
+57/254: 56
+58/254: 57
+59/254: 58
+60/254: 59
+61/254: 60
+62/254: 61
+63/254: 62
+64/254: 63
+65/254: 64
+66/254: 65
+67/254: 66
+68/254: 67
+69/254: 68
+70/254: 69
+71/254: 70
+72/254: 71
+73/254: 72
+74/254: 73
+75/254: 74
+76/254: 75
+77/254: 76
+78/254: 77
+79/254: 78
+80/254: 79
+81/254: 80
+82/254: 81
+83/254: 82
+84/254: 83
+85/254: 84
+86/254: 85
+87/254: 86
+88/254: 87
+89/254: 88
+90/254: 89
+91/254: 90
+92/254: 91
+93/254: 92
+94/254: 93
+95/254: 94
+96/254: 95
+97/254: 96
+98/254: 97
+99/254: 98
+100/254: 99
+101/254: 100
+102/254: 101
+103/254: 102
+104/254: 103
+105/254: 104
+106/254: 105
+107/254: 106
+108/254: 107
+109/254: 108
+110/254: 109
+111/254: 110
+112/254: 111
+113/254: 112
+114/254: 113
+115/254: 114
+116/254: 115
+117/254: 116
+118/254: 117
+119/254: 118
+120/254: 119
+121/254: 120
+122/254: 121
+123/254: 122
+124/254: 123
+125/254: 124
+126/254: 125
+127/254: 126
+128/254: 127
+129/254: 128
+130/254: 129
+131/254: 130
+132/254: 131
+133/254: 132
+134/254: 133
+135/254: 134
+136/254: 135
+137/254: 136
+138/254: 137
+139/254: 138
+140/254: 139
+141/254: 140
+142/254: 141
+143/254: 142
+144/254: 143
+145/254: 144
+146/254: 145
+147/254: 146
+148/254: 147
+149/254: 148
+150/254: 149
+151/254: 150
+152/254: 151
+153/254: 152
+154/254: 153
+155/254: 154
+156/254: 155
+157/254: 156
+158/254: 157
+159/254: 158
+160/254: 159
+161/254: 160
+162/254: 161
+163/254: 162
+164/254: 163
+165/254: 164
+166/254: 165
+167/254: 166
+168/254: 167
+169/254: 168
+170/254: 169
+171/254: 170
+172/254: 171
+173/254: 172
+174/254: 173
+175/254: 174
+176/254: 175
+177/254: 176
+178/254: 177
+179/254: 178
+180/254: 179
+181/254: 180
+182/254: 181
+183/254: 182
+184/254: 183
+185/254: 184
+186/254: 185
+187/254: 186
+188/254: 187
+189/254: 188
+190/254: 189
+191/254: 190
+192/254: 191
+193/254: 192
+194/254: 193
+195/254: 194
+196/254: 195
+197/254: 196
+198/254: 197
+199/254: 198
+200/254: 199
+201/254: 200
+202/254: 201
+203/254: 202
+204/254: 203
+205/254: 204
+206/254: 205
+207/254: 206
+208/254: 207
+209/254: 208
+210/254: 209
+211/254: 210
+212/254: 211
+213/254: 212
+214/254: 213
+215/254: 214
+216/254: 215
+217/254: 216
+218/254: 217
+219/254: 218
+220/254: 219
+221/254: 220
+222/254: 221
+223/254: 222
+224/254: 223
+225/254: 224
+226/254: 225
+227/254: 226
+228/254: 227
+229/254: 228
+230/254: 229
+231/254: 230
+232/254: 231
+233/254: 232
+234/254: 233
+235/254: 234
+236/254: 235
+237/254: 236
+238/254: 237
+239/254: 238
+240/254: 239
+241/254: 240
+242/254: 241
+243/254: 242
+244/254: 243
+245/254: 244
+246/254: 245
+247/254: 246
+248/254: 247
+249/254: 248
+250/254: 249
+251/254: 250
+252/254: 251
+253/254: 252
+254/254: 253
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 1.13 seconds
+Results:
+{'COLOR_COUNT': 254,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'CADD GIS Center SDS 220.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 23/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - CADD '
+'GIS Center SDS195.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'CADD GIS Center SDS195.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - CADD GIS Center SDS195.style
+Found 254 colors
+1/254: 0
+2/254: 1
+3/254: 2
+4/254: 3
+5/254: 4
+6/254: 5
+7/254: 6
+8/254: 7
+9/254: 8
+10/254: 9
+11/254: 10
+12/254: 11
+13/254: 12
+14/254: 13
+15/254: 14
+16/254: 15
+17/254: 16
+18/254: 17
+19/254: 18
+20/254: 19
+21/254: 20
+22/254: 21
+23/254: 22
+24/254: 23
+25/254: 24
+26/254: 25
+27/254: 26
+28/254: 27
+29/254: 28
+30/254: 29
+31/254: 30
+32/254: 31
+33/254: 32
+34/254: 33
+35/254: 34
+36/254: 35
+37/254: 36
+38/254: 37
+39/254: 38
+40/254: 39
+41/254: 40
+42/254: 41
+43/254: 42
+44/254: 43
+45/254: 44
+46/254: 45
+47/254: 46
+48/254: 47
+49/254: 48
+50/254: 49
+51/254: 50
+52/254: 51
+53/254: 52
+54/254: 53
+55/254: 54
+56/254: 55
+57/254: 56
+58/254: 57
+59/254: 58
+60/254: 59
+61/254: 60
+62/254: 61
+63/254: 62
+64/254: 63
+65/254: 64
+66/254: 65
+67/254: 66
+68/254: 67
+69/254: 68
+70/254: 69
+71/254: 70
+72/254: 71
+73/254: 72
+74/254: 73
+75/254: 74
+76/254: 75
+77/254: 76
+78/254: 77
+79/254: 78
+80/254: 79
+81/254: 80
+82/254: 81
+83/254: 82
+84/254: 83
+85/254: 84
+86/254: 85
+87/254: 86
+88/254: 87
+89/254: 88
+90/254: 89
+91/254: 90
+92/254: 91
+93/254: 92
+94/254: 93
+95/254: 94
+96/254: 95
+97/254: 96
+98/254: 97
+99/254: 98
+100/254: 99
+101/254: 100
+102/254: 101
+103/254: 102
+104/254: 103
+105/254: 104
+106/254: 105
+107/254: 106
+108/254: 107
+109/254: 108
+110/254: 109
+111/254: 110
+112/254: 111
+113/254: 112
+114/254: 113
+115/254: 114
+116/254: 115
+117/254: 116
+118/254: 117
+119/254: 118
+120/254: 119
+121/254: 120
+122/254: 121
+123/254: 122
+124/254: 123
+125/254: 124
+126/254: 125
+127/254: 126
+128/254: 127
+129/254: 128
+130/254: 129
+131/254: 130
+132/254: 131
+133/254: 132
+134/254: 133
+135/254: 134
+136/254: 135
+137/254: 136
+138/254: 137
+139/254: 138
+140/254: 139
+141/254: 140
+142/254: 141
+143/254: 142
+144/254: 143
+145/254: 144
+146/254: 145
+147/254: 146
+148/254: 147
+149/254: 148
+150/254: 149
+151/254: 150
+152/254: 151
+153/254: 152
+154/254: 153
+155/254: 154
+156/254: 155
+157/254: 156
+158/254: 157
+159/254: 158
+160/254: 159
+161/254: 160
+162/254: 161
+163/254: 162
+164/254: 163
+165/254: 164
+166/254: 165
+167/254: 166
+168/254: 167
+169/254: 168
+170/254: 169
+171/254: 170
+172/254: 171
+173/254: 172
+174/254: 173
+175/254: 174
+176/254: 175
+177/254: 176
+178/254: 177
+179/254: 178
+180/254: 179
+181/254: 180
+182/254: 181
+183/254: 182
+184/254: 183
+185/254: 184
+186/254: 185
+187/254: 186
+188/254: 187
+189/254: 188
+190/254: 189
+191/254: 190
+192/254: 191
+193/254: 192
+194/254: 193
+195/254: 194
+196/254: 195
+197/254: 196
+198/254: 197
+199/254: 198
+200/254: 199
+201/254: 200
+202/254: 201
+203/254: 202
+204/254: 203
+205/254: 204
+206/254: 205
+207/254: 206
+208/254: 207
+209/254: 208
+210/254: 209
+211/254: 210
+212/254: 211
+213/254: 212
+214/254: 213
+215/254: 214
+216/254: 215
+217/254: 216
+218/254: 217
+219/254: 218
+220/254: 219
+221/254: 220
+222/254: 221
+223/254: 222
+224/254: 223
+225/254: 224
+226/254: 225
+227/254: 226
+228/254: 227
+229/254: 228
+230/254: 229
+231/254: 230
+232/254: 231
+233/254: 232
+234/254: 233
+235/254: 234
+236/254: 235
+237/254: 236
+238/254: 237
+239/254: 238
+240/254: 239
+241/254: 240
+242/254: 241
+243/254: 242
+244/254: 243
+245/254: 244
+246/254: 245
+247/254: 246
+248/254: 247
+249/254: 248
+250/254: 249
+251/254: 250
+252/254: 251
+253/254: 252
+254/254: 253
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 1.08 seconds
+Results:
+{'COLOR_COUNT': 254,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'CADD GIS Center SDS195.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 24/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Caves.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Caves.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - Caves.style
+Found 0 colors
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.12 seconds
+Results:
+{'COLOR_COUNT': 0,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Caves.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 25/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Civic.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Civic.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - Civic.style
+Found 81 colors
+1/81: Residential - Single Family (R-1)
+2/81: Residential - Light Multiple (R-2)
+3/81: Residential - Medium Multiple (R-3)
+4/81: Residential - Heavy Multiple (R-4)
+5/81: Residential - Estate (RE)
+6/81: Residential - Mobilehome (R-T)
+7/81: Commercial - General  (C-G)
+8/81: Commercial - Neighborhood (C-N)
+9/81: Commercial - Professional (C-P)
+10/81: Commercial - Tourist  (C-T)
+11/81: Planned Development - (PD)
+12/81: Planned Development - Commercial (PD-C)
+13/81: Planned Development - Residential (PD-R)
+14/81: Manufacturing - Light Industrial (M-1)
+15/81: Manufacturing - General Industrial (M-2)
+16/81: Industrial - Park (I-P)
+17/81: Industrial - Park Offices (I-PO)
+18/81: Rural Agricultural (RA)
+19/81: Hospital Professional (H-P)
+20/81: Specific Plan Area (S-P)
+21/81: City Owned (CT-O)
+22/81: Federally Owned (F-O)
+23/81: Public Owned (PO)
+24/81: Lien Property (LP)
+25/81: Condemned (CND)
+26/81: Golf &amp; Recreation (G-R)
+27/81: Bicycle Route (B-R)
+28/81: Park &amp; Open Space (POS)
+29/81: Horticulture &amp; Agriculture (H-A)
+30/81: Fruit &amp; Vegetable Agriculture (FVA)
+31/81: Public Safety (PS)
+32/81: Custom Designation (C-D)
+33/81: Airport (AIR)
+34/81: Business Services (BSV)
+35/81: Financial Services (FS)
+36/81: No constraints -- private ownership
+37/81: Residence or accomodation functions
+38/81: Residential activities
+39/81: Residential buildings
+40/81: Site in natural state
+41/81: Commercial buildings and other specialized structures
+42/81: Developing site
+43/81: General Sales or services
+44/81: Shopping, business or trade activities
+45/81: Some constraints -- easements or restricted use
+46/81: Developed site -- crops, grazing, forestry, etc.
+47/81: Industrial, manufacturing, and waste-related activities
+48/81: Limited restrictions -- leased or tenancy restrictions
+49/81: Manufacturing and wholesale trade
+50/81: Public assembly structures
+51/81: Developed site -- no buildings and no structures
+52/81: Institutional or community facilities
+53/81: Public restrictions -- local, state, federal ownership
+54/81: Social, institutional, or infrastructure-related activities
+55/81: Transportation, communication, information, and utilities
+56/81: Arts, entertainment, and recreation
+57/81: Developed site -- nonbuilding structures
+58/81: Other public use restrictions -- regional, special districts, etc
+59/81: Transportation-related facilities
+60/81: Travel or movement activities
+61/81: Education, public admin., health care, and other inst.
+62/81: Developed site -- with buildings
+63/81: Mass assembly of people
+64/81: Nonprofit ownership restrictions
+65/81: Utility and other nonbuilding structures
+66/81: Military installations
+67/81: Construction-related businesses
+68/81: Specialized military structures
+69/81: Developed site -- with parks
+70/81: Joint ownership character -- public entities
+71/81: Leisure activities
+72/81: Joint ownership character -- public, private, nonprofit, etc.
+73/81: Natural resource-related activities
+74/81: Sheds, farm buildings, or agricultural facilities
+75/81: Mining and extraction establishments
+76/81: Not applicable to this dimension
+77/81: Not applicable to this dimension
+78/81: Agriculture, forestry, fishing and hunting
+79/81: No human activity or unclassifiable activity
+80/81: No structure
+81/81: Unclassifiable site development character
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.46 seconds
+Results:
+{'COLOR_COUNT': 81,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Civic.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 26/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Conservation.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Conservation.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - Conservation.style
+Found 32 colors
+1/32: Country
+2/32: Freshwater Ecoregions
+3/32: Marine Ecoregions
+4/32: Flooded grassland
+5/32: Boreal forest/taiga
+6/32: Desert
+7/32: Xeric shrublands
+8/32: Mangroves
+9/32: Mediterranean scrub
+10/32: Montane grassland
+11/32: Temperate broadleaf forest
+12/32: Temperate mixed forest
+13/32: Temperate coniferous forest
+14/32: Temperate grassland
+15/32: Temperate savanna
+16/32: Temperate shrubland
+17/32: Tropical coniferous forest
+18/32: Tropical dry broadleaf forest
+19/32: Tropical grassland
+20/32: Tropical savanna
+21/32: Tropical shrubland
+22/32: Tropical moist broadleaf forest
+23/32: Subtropical coniferous forest
+24/32: Subtropical dry broadleaf forest
+25/32: Subtropical grassland
+26/32: Marker Green
+27/32: Marker Background
+28/32: Subtropical savanna
+29/32: Subtropical shrubland
+30/32: Subtropical moist broadleaf forest
+31/32: Tundra
+32/32: Water
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.22 seconds
+Results:
+{'COLOR_COUNT': 32,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Conservation.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 27/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Crime Analysis.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Crime Analysis.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - Crime Analysis.style
+Found 12 colors
+1/12: Sector Boundary
+2/12: City Limits Boundary
+3/12: Beat Boundary
+4/12: Beat Background
+5/12: Residential Street
+6/12: Highway or Ramp
+7/12: Water Body
+8/12: Water Outline
+9/12: Park/Open Area
+10/12: Icon Black
+11/12: Icon Grey
+12/12: Background Yellow
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.17 seconds
+Results:
+{'COLOR_COUNT': 12,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Crime Analysis.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 28/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Dimension.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Dimension.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - Dimension.style
+Found 0 colors
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.12 seconds
+Results:
+{'COLOR_COUNT': 0,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Dimension.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 29/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Environmental.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Environmental.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - Environmental.style
+Found 53 colors
+1/53: Tree, Deciduous, Top
+2/53: Air
+3/53: Vandal, Alcohol Involved
+4/53: Communication, Telephone
+5/53: Test/Sample, Sediment
+6/53: Test/Sample, Overfill
+7/53: Flag
+8/53: Combi Sewer Overflow (left)
+9/53: Test/Sample, Water
+10/53: Test/Sample, Shellfish
+11/53: Response Vehicle (left)
+12/53: Landfill, Construction, Demolition
+13/53: Mollusk Shell
+14/53: Underground Injection
+15/53: Test/Sample, Shellfish
+16/53: Earth Mover (right)
+17/53: Tire Pile
+18/53: WWTF, Commercial
+19/53: Surface Spill
+20/53: Black
+21/53: Tree, Coniferous
+22/53: Property Marker
+23/53: Well, Abandoned, Destroyed
+24/53: Tree, Coniferous, Top
+25/53: Uncontrolled DOD
+26/53: Wetland
+27/53: Above Ground Storage Tank
+28/53: Droplet, Water
+29/53: Droplet, Product
+30/53: Vandal
+31/53: Tree, Deciduous, Side
+32/53: Sand/Salt Storage
+33/53: Compost
+34/53: Catch Basin
+35/53: Septage Disposal/Storage
+36/53: White
+37/53: Lead Contaminant
+38/53: Sulfur Contaminant
+39/53: Chlorine Contaminant
+40/53: ESI 1
+41/53: ESI 10A
+42/53: ESI 10B
+43/53: ESI 10C
+44/53: ESI 10D
+45/53: ESI 2
+46/53: ESI 3
+47/53: ESI 4
+48/53: ESI 5
+49/53: ESI 6A
+50/53: ESI 6B
+51/53: ESI 7
+52/53: ESI 8A
+53/53: ESI 9
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.34 seconds
+Results:
+{'COLOR_COUNT': 53,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Environmental.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 30/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - ERS '
+'Homeland Security.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - ERS '
+'Homeland Security.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - ERS Homeland Security.style
+Found 12 colors
+1/12: Incident
+2/12: Natural Event
+3/12: Operation Level 1
+4/12: Operation Level 2
+5/12: Operation Level 3
+6/12: Operation Level 4
+7/12: Infrastructure Level 1
+8/12: Infrastructure Level 2
+9/12: Infrastructure Level 3
+10/12: Infrastructure Level 4
+11/12: Background White
+12/12: Black
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.17 seconds
+Results:
+{'COLOR_COUNT': 12,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - ERS '
+'Homeland Security.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 31/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'ESRI-CAD.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'ESRI-CAD.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - ESRI-CAD.style
+Found 0 colors
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.10 seconds
+Results:
+{'COLOR_COUNT': 0,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'ESRI-CAD.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 32/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'ESRI.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'ESRI.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - ESRI.style
+Found 120 colors
+1/120: Arctic White
+2/120: Rose Quartz
+3/120: Sahara Sand
+4/120: Topaz Sand
+5/120: Yucca Yellow
+6/120: Olivine Yellow
+7/120: Tzavorite Green
+8/120: Indicolite Green
+9/120: Sodalite Blue
+10/120: Sugilite Sky
+11/120: Lepidolite Lilac
+12/120: Rhodolite Rose
+13/120: Gray 10%
+14/120: Medium Coral Light
+15/120: Cantaloupe
+16/120: Mango
+17/120: Autunite Yellow
+18/120: Lemongrass
+19/120: Light Apple
+20/120: Beryl Green
+21/120: Apatite Blue
+22/120: Yogo Blue
+23/120: Heliotrope
+24/120: Fuchsia Pink
+25/120: Gray 20%
+26/120: Mars Red
+27/120: Fire Red
+28/120: Electron Gold
+29/120: Solar Yellow
+30/120: Peridot Green
+31/120: Medium Apple
+32/120: Tourmaline Green
+33/120: Big Sky Blue
+34/120: Cretan Blue
+35/120: Amethyst
+36/120: Ginger Pink
+37/120: Gray 30%
+38/120: Poinsettia Red
+39/120: Flame Red
+40/120: Seville Orange
+41/120: Citron Yellow
+42/120: Macaw Green
+43/120: Quetzel Green
+44/120: Chrysoprase
+45/120: Moorea Blue
+46/120: Lapis Lazuli
+47/120: Anemone Violet
+48/120: Peony Pink
+49/120: Gray 40%
+50/120: Tuscan Red
+51/120: Cherry Cola
+52/120: Raw Umber
+53/120: Olivenite Green
+54/120: Tarragon Green
+55/120: Leaf Green
+56/120: Malachite Green
+57/120: Delft Blue
+58/120: Ultra Blue
+59/120: Dark Amethyst
+60/120: Cattleya Orchid
+61/120: Gray 50%
+62/120: Dark Umber
+63/120: Cherrywood Brown
+64/120: Burnt Umber
+65/120: Dark Olivenite
+66/120: Spruce Green
+67/120: Fir Green
+68/120: Peacock Green
+69/120: Steel Blue
+70/120: Dark Navy
+71/120: Ultramarine
+72/120: Purple Heart
+73/120: Gray 60%
+74/120: Rose Dust
+75/120: Soapstone Dust
+76/120: Tecate Dust
+77/120: Lime Dust
+78/120: Apple Dust
+79/120: Sage Dust
+80/120: Turquoise Dust
+81/120: Blue Gray Dust
+82/120: Violet Dust
+83/120: Lilac Dust
+84/120: Tudor Rose Dust
+85/120: Gray 70%
+86/120: Medium Coral
+87/120: Orange Dust
+88/120: Medium Sand
+89/120: Medium Yellow
+90/120: Medium Lime
+91/120: Medium Key Lime
+92/120: Light Vert
+93/120: Oxide Blue
+94/120: Medium Azul
+95/120: Medium Lilac
+96/120: Medium Fuchsia
+97/120: Gray 80%
+98/120: Tulip Pink
+99/120: Nubuck Tan
+100/120: Light Sienna
+101/120: Light Olivenite
+102/120: Medium Olivenite
+103/120: Fern Green
+104/120: Jadeite
+105/120: Atlantic Blue
+106/120: Pacific Blue
+107/120: Aster Purple
+108/120: Protea Pink
+109/120: Black
+110/120: Cordovan Brown
+111/120: Cocoa Brown
+112/120: Leather Brown
+113/120: Lichen Green
+114/120: Moss Green
+115/120: Lotus Pond Green
+116/120: Deep Forest
+117/120: Larkspur Blue
+118/120: Glacier Blue
+119/120: Blackberry
+120/120: Cabernet
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.67 seconds
+Results:
+{'COLOR_COUNT': 120,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'ESRI.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 33/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'ESRI_Optimized.Style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'ESRI_Optimized.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - ESRI_Optimized.Style
+Found 120 colors
+1/120: Arctic White
+2/120: Rose Quartz
+3/120: Sahara Sand
+4/120: Topaz Sand
+5/120: Yucca Yellow
+6/120: Olivine Yellow
+7/120: Tzavorite Green
+8/120: Indicolite Green
+9/120: Sodalite Blue
+10/120: Sugilite Sky
+11/120: Lepidolite Lilac
+12/120: Rhodolite Rose
+13/120: Gray 10%
+14/120: Medium Coral Light
+15/120: Cantaloupe
+16/120: Mango
+17/120: Autunite Yellow
+18/120: Lemongrass
+19/120: Light Apple
+20/120: Beryl Green
+21/120: Apatite Blue
+22/120: Yogo Blue
+23/120: Heliotrope
+24/120: Fuchsia Pink
+25/120: Gray 20%
+26/120: Mars Red
+27/120: Fire Red
+28/120: Electron Gold
+29/120: Solar Yellow
+30/120: Peridot Green
+31/120: Medium Apple
+32/120: Tourmaline Green
+33/120: Big Sky Blue
+34/120: Cretan Blue
+35/120: Amethyst
+36/120: Ginger Pink
+37/120: Gray 30%
+38/120: Poinsettia Red
+39/120: Flame Red
+40/120: Seville Orange
+41/120: Citron Yellow
+42/120: Macaw Green
+43/120: Quetzel Green
+44/120: Chrysoprase
+45/120: Moorea Blue
+46/120: Lapis Lazuli
+47/120: Anemone Violet
+48/120: Peony Pink
+49/120: Gray 40%
+50/120: Tuscan Red
+51/120: Cherry Cola
+52/120: Raw Umber
+53/120: Olivenite Green
+54/120: Tarragon Green
+55/120: Leaf Green
+56/120: Malachite Green
+57/120: Delft Blue
+58/120: Ultra Blue
+59/120: Dark Amethyst
+60/120: Cattleya Orchid
+61/120: Gray 50%
+62/120: Dark Umber
+63/120: Cherrywood Brown
+64/120: Burnt Umber
+65/120: Dark Olivenite
+66/120: Spruce Green
+67/120: Fir Green
+68/120: Peacock Green
+69/120: Steel Blue
+70/120: Dark Navy
+71/120: Ultramarine
+72/120: Purple Heart
+73/120: Gray 60%
+74/120: Rose Dust
+75/120: Soapstone Dust
+76/120: Tecate Dust
+77/120: Lime Dust
+78/120: Apple Dust
+79/120: Sage Dust
+80/120: Turquoise Dust
+81/120: Blue Gray Dust
+82/120: Violet Dust
+83/120: Lilac Dust
+84/120: Tudor Rose Dust
+85/120: Gray 70%
+86/120: Medium Coral
+87/120: Orange Dust
+88/120: Medium Sand
+89/120: Medium Yellow
+90/120: Medium Lime
+91/120: Medium Key Lime
+92/120: Light Vert
+93/120: Oxide Blue
+94/120: Medium Azul
+95/120: Medium Lilac
+96/120: Medium Fuchsia
+97/120: Gray 80%
+98/120: Tulip Pink
+99/120: Nubuck Tan
+100/120: Light Sienna
+101/120: Light Olivenite
+102/120: Medium Olivenite
+103/120: Fern Green
+104/120: Jadeite
+105/120: Atlantic Blue
+106/120: Pacific Blue
+107/120: Aster Purple
+108/120: Protea Pink
+109/120: Black
+110/120: Cordovan Brown
+111/120: Cocoa Brown
+112/120: Leather Brown
+113/120: Lichen Green
+114/120: Moss Green
+115/120: Lotus Pond Green
+116/120: Deep Forest
+117/120: Larkspur Blue
+118/120: Glacier Blue
+119/120: Blackberry
+120/120: Cabernet
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.78 seconds
+Results:
+{'COLOR_COUNT': 120,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'ESRI_Optimized.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 34/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Forestry.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Forestry.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - Forestry.style
+Found 48 colors
+1/48: Primary Forest
+2/48: Primary Forest-Wilderness
+3/48: Land Admin by Other NF
+4/48: BLM
+5/48: Indian Reservations
+6/48: NPS and Federal
+7/48: State Public Use Land
+8/48: State Land Subj to Lease
+9/48: Undesignated Exterior Area
+10/48: Brown Features and Type
+11/48: Red Features and Type
+12/48: Black Features and Type
+13/48: Blue Features and Type
+14/48: Water Areas
+15/48: Dark Green Route Overprint
+16/48: Light Green Route Overprint
+17/48: Orange Route Overprint
+18/48: FT White-Red-Jack Pine
+19/48: FT Spruce-Fir
+20/48: FT Longleaf-Slash Pine
+21/48: FT Loblolly-Shortleaf Pine
+22/48: FT Oak-Pine
+23/48: FT Oak-Hickory
+24/48: FT Oak-Gum-Cypress
+25/48: FT Elm-Ash-Cottonwood
+26/48: FT Maple-Beech-Birch
+27/48: FT Aspen-Birch
+28/48: FT Douglas-Fir
+29/48: FT Hemlock-Sitka Spruce
+30/48: FT Ponderosa Pine
+31/48: FT Western White Pine
+32/48: FT Lodgepole Pine
+33/48: FT Larch
+34/48: FT Fir-Spruce
+35/48: FT Redwood
+36/48: FT Chaparral
+37/48: FT Pinyon-Juniper
+38/48: FT Western Hardwoods
+39/48: FT Aspen-Birch-Pine
+40/48: FT Unforested
+41/48: Zeta Red
+42/48: Hot Spot Red
+43/48: Helispot Blue
+44/48: Base Blue
+45/48: Incident Blue
+46/48: Free Diving Violet Blue
+47/48: Marker Red
+48/48: White
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.31 seconds
+Results:
+{'COLOR_COUNT': 48,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Forestry.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 35/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Geology 24K.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Geology 24K.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - Geology 24K.style
+Found 92 colors
+1/92: Quaternary 1
+2/92: Quaternary 2
+3/92: Quaternary 3
+4/92: Quaternary 4
+5/92: Tertiary 1
+6/92: Tertiary 2
+7/92: Tertiary 3
+8/92: Tertiary 4
+9/92: Tertiary 5
+10/92: Tertiary 6
+11/92: Tertiary 7
+12/92: Tertiary 8
+13/92: Cretaceous 1
+14/92: Cretaceous 2
+15/92: Cretaceous 3
+16/92: Cretaceous 4
+17/92: Cretaceous 5
+18/92: Cretaceous 6
+19/92: Jurassic 1
+20/92: Jurassic 2
+21/92: Jurassic 3
+22/92: Jurassic 4
+23/92: Jurassic 5
+24/92: Triassic 1
+25/92: Triassic 2
+26/92: Triassic 3
+27/92: Triassic 4
+28/92: Triassic 5
+29/92: Permian 1
+30/92: Permian 2
+31/92: Permian 3
+32/92: Permian 4
+33/92: Pennsylvanian 1
+34/92: Pennsylvanian 2
+35/92: Pennsylvanian 3
+36/92: Pennsylvanian 4
+37/92: Pennsylvanian 5
+38/92: Mississippian 1
+39/92: Mississippian 2
+40/92: Mississippian 3
+41/92: Mississippian 4
+42/92: Mississippian 5
+43/92: Devonian 1
+44/92: Devonian 2
+45/92: Devonian 3
+46/92: Devonian 4
+47/92: Devonian 5
+48/92: Silurian 1
+49/92: Silurian 2
+50/92: Silurian 3
+51/92: Silurian 4
+52/92: Ordovician 1
+53/92: Ordovician 2
+54/92: Ordovician 3
+55/92: Ordovician 4
+56/92: Ordovician 5
+57/92: Cambrian 1
+58/92: Cambrian 2
+59/92: Cambrian 3
+60/92: Cambrian 4
+61/92: Cambrian 5
+62/92: Precambrian 1
+63/92: Precambrian 2
+64/92: Precambrian 3
+65/92: Precambrian 4
+66/92: Precambrian 5
+67/92: Precambrian 6
+68/92: Precambrian 7
+69/92: Precambrian 8
+70/92: Precambrian 9
+71/92: Precambrian 10
+72/92: Precambrian 11
+73/92: Precambrian 12
+74/92: Precambrian 13
+75/92: Precambrian 14
+76/92: Precambrian 15
+77/92: Precambrian 16
+78/92: Precambrian 17
+79/92: Precambrian 18
+80/92: Precambrian 19
+81/92: Precambrian 20
+82/92: Precambrian 21
+83/92: Precambrian 22
+84/92: Volcanic 1
+85/92: Volcanic 2
+86/92: Volcanic 3
+87/92: Volcanic 4
+88/92: Volcanic 5
+89/92: Volcanic 6
+90/92: Volcanic 7
+91/92: Volcanic 8
+92/92: Volcanic 9
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.48 seconds
+Results:
+{'COLOR_COUNT': 92,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Geology 24K.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 36/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Hazmat.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Hazmat.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - Hazmat.style
+Found 28 colors
+1/28: Flood 1
+2/28: Flood 2
+3/28: Construction 1
+4/28: Construction 2
+5/28: Noise 1
+6/28: Noise 2
+7/28: Fume 1
+8/28: Fume 2
+9/28: Biohazard 1
+10/28: Chemical
+11/28: Radiation 1
+12/28: Radiation 2
+13/28: Poison
+14/28: EMT 1
+15/28: EMT 2
+16/28: EMT 3
+17/28: Fire
+18/28: Blasting Agents
+19/28: Combustible 1
+20/28: Dangerous
+21/28: Flammable
+22/28: Flammable Gas
+23/28: Flammable Gas 2
+24/28: NFPA Blue
+25/28: NFPA Yellow
+26/28: NFPA Red
+27/28: Exit Green
+28/28: White
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.25 seconds
+Results:
+{'COLOR_COUNT': 28,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Hazmat.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 37/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'IGL.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'IGL.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - IGL.style
+Found 4 colors
+1/4: Black
+2/4: Red
+3/4: Blue
+4/4: Green
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.13 seconds
+Results:
+{'COLOR_COUNT': 4,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'IGL.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 38/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Meteorological.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Meteorological.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - Meteorological.style
+Found 59 colors
+1/59: Slight Radar Echo
+2/59: X Light Radar Echo
+3/59: Light Radar Echo
+4/59: Medium Radar Echo
+5/59: Med Heavy Radar Echo
+6/59: Heavy Radar Echo
+7/59: X Heavy Radar Echo
+8/59: No Radar Echo
+9/59: AMS White
+10/59: AMS Gray
+11/59: AMS Black
+12/59: AMS Red
+13/59: AMS Lt Red
+14/59: AMS RedOrange
+15/59: AMS Orange
+16/59: AMS Yellow
+17/59: AMS Tan
+18/59: AMS Brown
+19/59: AMS Green
+20/59: AMS Lt Green
+21/59: AMS Blue
+22/59: AMS Lt Blue
+23/59: AMS Purple
+24/59: NEXRAD RF -28
+25/59: NEXRAD RF -24
+26/59: NEXRAD RF -20
+27/59: NEXRAD RF -16
+28/59: NEXRAD RF -12
+29/59: NEXRAD RF -8
+30/59: NEXRAD RF -4
+31/59: NEXRAD RF -0
+32/59: Copy of  NEXRAD RF -4
+33/59: Copy of  NEXRAD RF -8
+34/59: Copy of  NEXRAD RF -12
+35/59: Copy of  NEXRAD RF -16
+36/59: Copy of  NEXRAD RF -20
+37/59: Copy of  NEXRAD RF -24
+38/59: Copy of  NEXRAD RF -28
+39/59: NEXRAD RV -50
+40/59: NEXRAD RV -40
+41/59: NEXRAD RV -30
+42/59: NEXRAD RV -10
+43/59: NEXRAD RV -5
+44/59: NEXRAD RV -1
+45/59: NEXRAD RV 0
+46/59: NEXRAD RV 5
+47/59: NEXRAD RV 10
+48/59: NEXRAD RV 22
+49/59: NEXRAD RV 30
+50/59: NEXRAD RV 40
+51/59: NEXRAD RV 50
+52/59: NEXRAD RV RF
+53/59: Warm Front
+54/59: Occluded Front
+55/59: Cold Front
+56/59: Thundershower
+57/59: Snow
+58/59: Ice Crystals
+59/59: Watch Box--Tornado
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.33 seconds
+Results:
+{'COLOR_COUNT': 59,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Meteorological.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 39/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Military Emergency Management.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Military Emergency Management.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - Military Emergency Management.style
+Found 0 colors
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.14 seconds
+Results:
+{'COLOR_COUNT': 0,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Military Emergency Management.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 40/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Military METOC.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Military METOC.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - Military METOC.style
+Found 5 colors
+1/5: Blue - Pressure Systems
+2/5: Brown - Bounded Areas
+3/5: Green - Bounded Areas
+4/5: Green - Pressure Systems
+5/5: Red - Pressure Systems
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.15 seconds
+Results:
+{'COLOR_COUNT': 5,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Military METOC.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 41/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Mining.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Mining.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - Mining.style
+Found 49 colors
+1/49: Ore 1
+2/49: Ore 2
+3/49: Ore 3
+4/49: Ore 4
+5/49: Ore 5
+6/49: Ore 6
+7/49: E.Proterozoic 1
+8/49: E.Proterozoic 2
+9/49: E.Proterozoic 3
+10/49: Holocene
+11/49: Lower Permian 1
+12/49: Lower Permian 2
+13/49: Mid Jurassic 1
+14/49: Mid Jurassic 2
+15/49: Mid Jurassic 3
+16/49: Mid Pleistocene 1
+17/49: Mid Pleistocene 2
+18/49: Mid Proterozoic 1
+19/49: Mid Proterozoic 2
+20/49: Mid-Low Triassic
+21/49: Mississipian
+22/49: Oligocene
+23/49: Pleistocene
+24/49: Pleistocene to Low Holocene 1
+25/49: Pleistocene to Low Holocene 2
+26/49: Pleistocene to Low Holocene 3
+27/49: Precambrian
+28/49: Upper and Mid Permian 1
+29/49: Upper and Mid Permian 2
+30/49: Upper Cretaceous 1
+31/49: Upper Cretaceous 2
+32/49: Upper Cretaceous 3
+33/49: Upper Cretaceous 4
+34/49: Upper Cretaceous 5
+35/49: Upper Jurassic
+36/49: Upper Miocene to Mid Pleistocene 1
+37/49: Upper Miocene to Mid Pleistocene 2
+38/49: Upper Miocene to Mid Pleistocene 3
+39/49: Upper Miocene to Pliocene
+40/49: Upper Permian 1
+41/49: Upper Permian 2
+42/49: Upper Pleistocene to Holocene 1
+43/49: Upper Pleistocene to Holocene 2
+44/49: Upper Pleistocene to Holocene 3
+45/49: Upper Pleistocene to Holocene 4
+46/49: Upper Triassic 1
+47/49: Upper Triassic 2
+48/49: Uppermost Pleistocene to L.Holocene
+49/49: Pit Black
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.34 seconds
+Results:
+{'COLOR_COUNT': 49,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Mining.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 42/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'MSExp258.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'MSExp258.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - MSExp258.style
+Found 258 colors
+1/258: 128,0,0
+2/258: 0,128,0
+3/258: 128,128,0
+4/258: 0,0,128
+5/258: 128,0,128
+6/258: 0,128,128
+7/258: 192,192,192
+8/258: 192,220,192
+9/258: 166,202,240
+10/258: 4,4,4
+11/258: 8,8,8
+12/258: 12,12,12
+13/258: 17,17,17
+14/258: 22,22,22
+15/258: 28,28,28
+16/258: 34,34,34
+17/258: 41,41,41
+18/258: 85,85,85
+19/258: 77,77,77
+20/258: 66,66,66
+21/258: 57,57,57
+22/258: 255,124,128
+23/258: 255,80,80
+24/258: 214,0,147
+25/258: 204,236,255
+26/258: 239,214,198
+27/258: 231,231,214
+28/258: 173,269,144
+29/258: 95,95,95
+30/258: 119,119,119
+31/258: 134,134,134
+32/258: 150,150,150
+33/258: 178,178,178
+34/258: 215,215,215
+35/258: 221,221,221
+36/258: 227,227,227
+37/258: 234,234,234
+38/258: 241,241,241
+39/258: 248,248,248
+40/258: 255,251,240
+41/258: 160,160,164
+42/258: 128,128,128
+43/258: 0,0,0
+44/258: 0,0,51
+45/258: 0,0,102
+46/258: 0,0,153
+47/258: 0,0,204
+48/258: 0,0,255
+49/258: 0,51,0
+50/258: 0,51,51
+51/258: 0,51,102
+52/258: 0,51,153
+53/258: 0,51,204
+54/258: 0,51,255
+55/258: 0,102,0
+56/258: 0,102,51
+57/258: 0,102,102
+58/258: 0,102,153
+59/258: 0,102,204
+60/258: 0,102,255
+61/258: 0,153,0
+62/258: 0,153,51
+63/258: 0,153,102
+64/258: 0,153,153
+65/258: 0,153,204
+66/258: 0,153,255
+67/258: 0,204,0
+68/258: 0,204,51
+69/258: 0,204,102
+70/258: 0,204,153
+71/258: 0,204,204
+72/258: 0,204,255
+73/258: 0,255,0
+74/258: 0,255,51
+75/258: 0,255,102
+76/258: 0,255,153
+77/258: 0,255,204
+78/258: 0,255,255
+79/258: 51,0,0
+80/258: 51,0,51
+81/258: 51,0,102
+82/258: 51,0,153
+83/258: 51,0,204
+84/258: 51,0,255
+85/258: 51,51,0
+86/258: 51,51,51
+87/258: 51,51,102
+88/258: 51,51,153
+89/258: 51,51,204
+90/258: 51,51,255
+91/258: 51,102,0
+92/258: 51,102,51
+93/258: 51,102,102
+94/258: 51,102,153
+95/258: 51,102,204
+96/258: 51,102,255
+97/258: 51,153,0
+98/258: 51,153,51
+99/258: 51,153,102
+100/258: 51,153,153
+101/258: 51,153,204
+102/258: 51,153,255
+103/258: 51,204,0
+104/258: 51,204,51
+105/258: 51,204,102
+106/258: 51,204,153
+107/258: 51,204,204
+108/258: 51,204,255
+109/258: 51,255,0
+110/258: 51,255,51
+111/258: 51,255,102
+112/258: 51,255,153
+113/258: 51,255,204
+114/258: 51,255,255
+115/258: 102,0,0
+116/258: 102,0,51
+117/258: 102,0,102
+118/258: 102,0,153
+119/258: 102,0,204
+120/258: 102,0,255
+121/258: 102,51,0
+122/258: 102,51,51
+123/258: 102,51,102
+124/258: 102,51,153
+125/258: 102,51,204
+126/258: 102,51,255
+127/258: 102,102,0
+128/258: 102,102,51
+129/258: 102,102,102
+130/258: 102,102,153
+131/258: 102,102,204
+132/258: 255,204,51
+133/258: 255,204,102
+134/258: 255,204,153
+135/258: 255,204,204
+136/258: 255,204,255
+137/258: 255,255,0
+138/258: 255,255,51
+139/258: 255,255,102
+140/258: 255,255,153
+141/258: 255,255,204
+142/258: 255,255,255
+143/258: 102,102,255
+144/258: 102,153,0
+145/258: 102,153,51
+146/258: 102,153,102
+147/258: 102,153,153
+148/258: 102,153,204
+149/258: 102,153,255
+150/258: 102,204,0
+151/258: 102,204,51
+152/258: 102,204,102
+153/258: 102,204,153
+154/258: 102,204,204
+155/258: 102,204,255
+156/258: 102,255,0
+157/258: 102,255,51
+158/258: 102,255,102
+159/258: 102,255,153
+160/258: 102,255,204
+161/258: 102,255,255
+162/258: 153,0,0
+163/258: 153,0,51
+164/258: 153,0,102
+165/258: 153,0,153
+166/258: 153,0,204
+167/258: 153,0,255
+168/258: 153,51,0
+169/258: 153,51,51
+170/258: 153,51,102
+171/258: 153,51,153
+172/258: 153,51,204
+173/258: 153,51,255
+174/258: 153,102,0
+175/258: 153,102,51
+176/258: 153,102,102
+177/258: 153,102,153
+178/258: 153,102,204
+179/258: 153,102,255
+180/258: 153,153,0
+181/258: 153,153,51
+182/258: 153,153,102
+183/258: 153,153,153
+184/258: 153,153,204
+185/258: 153,153,255
+186/258: 153,204,0
+187/258: 153,204,51
+188/258: 153,204,102
+189/258: 153,204,153
+190/258: 153,204,204
+191/258: 153,204,255
+192/258: 153,255,0
+193/258: 153,255,51
+194/258: 153,255,102
+195/258: 153,255,153
+196/258: 153,255,204
+197/258: 153,255,255
+198/258: 204,0,0
+199/258: 204,0,51
+200/258: 204,0,102
+201/258: 204,0,153
+202/258: 204,0,204
+203/258: 204,0,255
+204/258: 204,51,0
+205/258: 204,51,51
+206/258: 204,51,102
+207/258: 204,51,153
+208/258: 204,51,204
+209/258: 204,51,255
+210/258: 204,102,0
+211/258: 204,102,51
+212/258: 204,102,102
+213/258: 204,102,153
+214/258: 204,102,204
+215/258: 204,102,255
+216/258: 204,153,0
+217/258: 204,153,51
+218/258: 204,153,102
+219/258: 204,153,153
+220/258: 204,153,204
+221/258: 204,153,255
+222/258: 204,204,0
+223/258: 204,204,51
+224/258: 204,204,102
+225/258: 204,204,153
+226/258: 204,204,204
+227/258: 204,204,255
+228/258: 204,255,0
+229/258: 204,255,51
+230/258: 204,255,102
+231/258: 204,255,153
+232/258: 204,255,204
+233/258: 204,255,255
+234/258: 255,0,0
+235/258: 255,0,51
+236/258: 255,0,102
+237/258: 255,0,153
+238/258: 255,0,204
+239/258: 255,0,255
+240/258: 255,51,0
+241/258: 255,51,51
+242/258: 255,51,102
+243/258: 255,51,153
+244/258: 255,51,204
+245/258: 255,51,255
+246/258: 255,102,0
+247/258: 255,102,51
+248/258: 255,102,102
+249/258: 255,102,153
+250/258: 255,102,204
+251/258: 255,102,255
+252/258: 255,153,0
+253/258: 255,153,51
+254/258: 255,153,102
+255/258: 255,153,153
+256/258: 255,153,204
+257/258: 255,153,255
+258/258: 255,204,0
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 1.10 seconds
+Results:
+{'COLOR_COUNT': 258,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'MSExp258.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 43/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Ordnance Survey.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Ordnance Survey.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - Ordnance Survey.style
+Found 0 colors
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.11 seconds
+Results:
+{'COLOR_COUNT': 0,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Ordnance Survey.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 44/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Petroleum UK.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Petroleum UK.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - Petroleum UK.style
+Found 0 colors
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.12 seconds
+Results:
+{'COLOR_COUNT': 0,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Petroleum UK.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 45/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Petroleum.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Petroleum.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - Petroleum.style
+Found 16 colors
+1/16: Gravity Main
+2/16: Force Main/Purge Line/Stub Out
+3/16: Distribution Main
+4/16: Transmission Main
+5/16: Alternate Main
+6/16: Service Line
+7/16: Fire Service
+8/16: Siphon/Service Lateral
+9/16: Undetermined Source
+10/16: O2 Release Line
+11/16: Hazardous Waste
+12/16: Well Blue
+13/16: Well Green
+14/16: Well Red
+15/16: Well Black
+16/16: Waste Red
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.19 seconds
+Results:
+{'COLOR_COUNT': 16,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Petroleum.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 46/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Public Signs.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Public Signs.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - Public Signs.style
+Found 4 colors
+1/4: Sign Black
+2/4: Sign White
+3/4: Sign Blue
+4/4: Sign Red
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.12 seconds
+Results:
+{'COLOR_COUNT': 4,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Public Signs.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 47/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - Real '
+'Estate.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Real Estate.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - Real Estate.style
+Found 43 colors
+1/43: Fruit &amp; Veg Agriculture 2
+2/43: Marker Black
+3/43: Software
+4/43: Medical
+5/43: Tourist Industry Service
+6/43: Business Service
+7/43: Medical Service
+8/43: Computer &amp; Electric
+9/43: Biotech &amp; Pharmaceutical
+10/43: Defense &amp; Aircraft
+11/43: Entertainment
+12/43: Software &amp; Computer Service
+13/43: Communications
+14/43: Financial Service
+15/43: Recreational Goods
+16/43: Biomedical Products
+17/43: Horticulture &amp; Agriculture
+18/43: Environmental Tech
+19/43: Fruit &amp; Veg Agriculture
+20/43: Condemned
+21/43: Rental &amp; Leased
+22/43: Warehousing
+23/43: Airport
+24/43: Public Safety
+25/43: City Owned
+26/43: Public Owned
+27/43: Wireless Communication
+28/43: Mortgaged
+29/43: Lien Property
+30/43: Federally Owned
+31/43: Residential
+32/43: Corporate Owned
+33/43: Rental Listing
+34/43: Park &amp; Open Space
+35/43: Golf &amp; Recreation
+36/43: Biomedical Products 2
+37/43: Biotech &amp; Pharmaceutical 2
+38/43: Business Service 2
+39/43: Communications 2
+40/43: Computer &amp; Electric 2
+41/43: Defense &amp; Aircraft 2
+42/43: Entertainment 2
+43/43: Environmental Tech 2
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.32 seconds
+Results:
+{'COLOR_COUNT': 43,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Real Estate.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 48/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Signals Intelligence.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Signals Intelligence.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - Signals Intelligence.style
+Found 0 colors
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.17 seconds
+Results:
+{'COLOR_COUNT': 0,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Signals Intelligence.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 49/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Soils EURO.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Soils EURO.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - Soils EURO.style
+Found 146 colors
+1/146: So
+2/146: T
+3/146: Th
+4/146: Tm
+5/146: To
+6/146: Tv
+7/146: U
+8/146: Ud
+9/146: V
+10/146: Vc
+11/146: Vp
+12/146: W
+13/146: Bv
+14/146: Bx
+15/146: C
+16/146: Cg
+17/146: Ch
+18/146: Ck
+19/146: Cl
+20/146: D
+21/146: Dd
+22/146: De
+23/146: Dg
+24/146: E
+25/146: Ec
+26/146: Eh
+27/146: Eo
+28/146: F
+29/146: Wd
+30/146: Fa
+31/146: Fh
+32/146: Fo
+33/146: Fp
+34/146: Fr
+35/146: Fx
+36/146: G
+37/146: Gc
+38/146: Gd
+39/146: Ge
+40/146: Gf
+41/146: Gh
+42/146: Gi
+43/146: Gl
+44/146: Gm
+45/146: Gp
+46/146: Gs
+47/146: Gt
+48/146: Gx
+49/146: H
+50/146: Hc
+51/146: Hg
+52/146: Hh
+53/146: Hl
+54/146: Ho
+55/146: I
+56/146: Ic
+57/146: Id
+58/146: Ie
+59/146: If
+60/146: J
+61/146: Jc
+62/146: Jd
+63/146: Je
+64/146: Jm
+65/146: Jt
+66/146: K
+67/146: Kh
+68/146: Kk
+69/146: Kl
+70/146: L
+71/146: La
+72/146: Lc
+73/146: Ld
+74/146: Lf
+75/146: Lg
+76/146: Lh
+77/146: Lk
+78/146: Lo
+79/146: Lp
+80/146: Lv
+81/146: M
+82/146: Mg
+83/146: Mo
+84/146: N
+85/146: Nd
+86/146: Ne
+87/146: Nh
+88/146: O
+89/146: Od
+90/146: Oe
+91/146: Ox
+92/146: P
+93/146: Pf
+94/146: Pg
+95/146: Ph
+96/146: Pl
+97/146: Po
+98/146: Pp
+99/146: Q
+100/146: Qa
+101/146: Qc
+102/146: Qf
+103/146: Ql
+104/146: R
+105/146: Rc
+106/146: Rd
+107/146: Re
+108/146: S
+109/146: Sg
+110/146: Sm
+111/146: We
+112/146: Wh
+113/146: Wm
+114/146: A
+115/146: Af
+116/146: Ag
+117/146: Ah
+118/146: Ao
+119/146: Ap
+120/146: B
+121/146: Ba
+122/146: Bc
+123/146: Bd
+124/146: Be
+125/146: Bf
+126/146: Bg
+127/146: Bh
+128/146: Bk
+129/146: Ws
+130/146: Wx
+131/146: X
+132/146: Xh
+133/146: Xk
+134/146: Xl
+135/146: Xy
+136/146: Y
+137/146: Yh
+138/146: Yk
+139/146: Yl
+140/146: Yt
+141/146: Yy
+142/146: Z
+143/146: Zg
+144/146: Zm
+145/146: Zo
+146/146: Zt
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.70 seconds
+Results:
+{'COLOR_COUNT': 146,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Soils EURO.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 50/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Stability Operations.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Stability Operations.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - Stability Operations.style
+Found 0 colors
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.12 seconds
+Results:
+{'COLOR_COUNT': 0,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Stability Operations.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 51/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Survey.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Survey.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - Survey.style
+Found 54 colors
+1/54: Bedrock 1
+2/54: Bedrock 2
+3/54: Bedrock 3
+4/54: Bedrock 4
+5/54: Bedrock 5
+6/54: Slope 1
+7/54: Slope 2
+8/54: Slope 3
+9/54: Slope 4
+10/54: Slope 5
+11/54: Slope 6
+12/54: Slope 7
+13/54: Slope 8
+14/54: Slope 9
+15/54: Tidal Inundation 1
+16/54: Tidal Inundation 2
+17/54: Tidal Inundation 3
+18/54: Tidal Inundation 4
+19/54: Elevation 3
+20/54: Elevation 4
+21/54: Elevation 5
+22/54: Elevation 6
+23/54: Soil 1
+24/54: Soil 2
+25/54: Soil 3
+26/54: Soil 4
+27/54: Soil 5
+28/54: Surface Drainage 1
+29/54: Surface Drainage 2
+30/54: Surface Drainage 3
+31/54: Surface Drainage 4
+32/54: Surface Drainage 5
+33/54: Flood Inundation 1
+34/54: Monument Red
+35/54: Flood Inundation 2
+36/54: Flood Inundation 3
+37/54: Flood Inundation 4
+38/54: Urban Suitability 1
+39/54: Urban Suitability 2
+40/54: Urban Suitability 3
+41/54: Urban Suitability 4
+42/54: Urban Suitability 5
+43/54: Urban Suitability 6
+44/54: Urban Suitability 7
+45/54: Urban Suitability 8
+46/54: Urban Suitability 9
+47/54: Water Res Blue
+48/54: Black
+49/54: White
+50/54: Urban Suitability 10
+51/54: Urban Suitability 11
+52/54: Urban Suitability 12
+53/54: Urban Suitability 13
+54/54: Urban Suitability 14
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.32 seconds
+Results:
+{'COLOR_COUNT': 54,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Survey.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 52/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Transportation.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Transportation.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - Transportation.style
+Found 18 colors
+1/18: B22
+2/18: B51
+3/18: Interstate Blue
+4/18: Bicycle Route Green
+5/18: Forest Route Brown
+6/18: Interstate Red
+7/18: County Route Gold
+8/18: A00
+9/18: A04
+10/18: A10
+11/18: A15
+12/18: A20
+13/18: A24
+14/18: A30
+15/18: A35
+16/18: A45
+17/18: A50
+18/18: A73
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.16 seconds
+Results:
+{'COLOR_COUNT': 18,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Transportation.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 53/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Utilities.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Utilities.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - Utilities.style
+Found 28 colors
+1/28: Gravity
+2/28: Force
+3/28: Transmission
+4/28: Fire Service
+5/28: Siphon
+6/28: Stub Out
+7/28: Landscape Service
+8/28: Unknown
+9/28: Air Release
+10/28: Blow-off Area
+11/28: Service
+12/28: Hydrant
+13/28: OH Secondary
+14/28: UG Primary
+15/28: Pad Yellow
+16/28: Pad Green
+17/28: Lighting Blue
+18/28: Fuse
+19/28: Phase
+20/28: Not Owned
+21/28: Riser
+22/28: Highlight
+23/28: Black
+24/28: Primary
+25/28: Work in Progress
+26/28: Null Node
+27/28: Link Box
+28/28: White
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.22 seconds
+Results:
+{'COLOR_COUNT': 28,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Utilities.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 54/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Water Wastewater.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Water Wastewater.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - Water Wastewater.style
+Found 47 colors
+1/47: 0 0 0
+2/47: 168 0 0
+3/47: 0 77 168
+4/47: 255 255 0
+5/47: 0 197 255
+6/47: 255 170 0
+7/47: 85 255 0
+8/47: 230 0 169
+9/47: 169 0 230
+10/47: 211 255 190
+11/47: 0 0 255
+12/47: 224 170 15
+13/47: 171 205 102
+14/47: 0 255 197
+15/47: 0 56 147
+16/47: 170 255 0
+17/47: 0 115 76
+18/47: 104 104 104
+19/47: 76 115 0
+20/47: 168 112 0
+21/47: 0 76 115
+22/47: 255 85 0
+23/47: 205 205 102
+24/47: 125 201 163
+25/47: 214 217 128
+26/47: 119 156 93
+27/47: 180 181 134
+28/47: 166 224 222
+29/47: 101 163 160
+30/47: 183 227 138
+31/47: 157 161 92
+32/47: 151 189 140
+33/47: 107 181 123
+34/47: 230 221 53
+35/47: 250 236 200
+36/47: 179 169 70
+37/47: 0 0 0
+38/47: 232 190 255
+39/47: 223 115 255
+40/47: 197 0 255
+41/47: 132 0 168
+42/47: 255 255 255
+43/47: 255 0 0
+44/47: 122 142 245
+45/47: 190 232 255
+46/47: 134 219 129
+47/47: 238 241 160
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.42 seconds
+Results:
+{'COLOR_COUNT': 47,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Water Wastewater.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 55/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Weather.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Weather.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - Weather.style
+Found 59 colors
+1/59: Slight Radar Echo
+2/59: X Light Radar Echo
+3/59: Light Radar Echo
+4/59: Medium Radar Echo
+5/59: Med Heavy Radar Echo
+6/59: Heavy Radar Echo
+7/59: X Heavy Radar Echo
+8/59: No Radar Echo
+9/59: AMS White
+10/59: AMS Gray
+11/59: AMS Black
+12/59: AMS Red
+13/59: AMS Lt Red
+14/59: AMS RedOrange
+15/59: AMS Orange
+16/59: AMS Yellow
+17/59: AMS Tan
+18/59: AMS Brown
+19/59: AMS Green
+20/59: AMS Lt Green
+21/59: AMS Blue
+22/59: AMS Lt Blue
+23/59: AMS Purple
+24/59: NEXRAD RF -28
+25/59: NEXRAD RF -24
+26/59: NEXRAD RF -20
+27/59: NEXRAD RF -16
+28/59: NEXRAD RF -12
+29/59: NEXRAD RF -8
+30/59: NEXRAD RF -4
+31/59: NEXRAD RF -0
+32/59: NEXRAD RF -4
+33/59: NEXRAD RF -8
+34/59: NEXRAD RF -12
+35/59: NEXRAD RF -16
+36/59: NEXRAD RF -20
+37/59: NEXRAD RF -24
+38/59: NEXRAD RF -28
+39/59: NEXRAD RV -50
+40/59: NEXRAD RV -40
+41/59: NEXRAD RV -30
+42/59: NEXRAD RV -10
+43/59: NEXRAD RV -5
+44/59: NEXRAD RV -1
+45/59: NEXRAD RV 0
+46/59: NEXRAD RV 5
+47/59: NEXRAD RV 10
+48/59: NEXRAD RV 22
+49/59: NEXRAD RV 30
+50/59: NEXRAD RV 40
+51/59: NEXRAD RV 50
+52/59: NEXRAD RV RF
+53/59: Warm Front
+54/59: Occluded Front
+55/59: Cold Front
+56/59: Thundershower
+57/59: Snow
+58/59: Ice Crystals
+59/59: Watch Box--Tornado
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 0.37 seconds
+Results:
+{'COLOR_COUNT': 59,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Weather.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 56/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Web216.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Web216.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - Web216.style
+Found 216 colors
+1/216: 0,0,0
+2/216: 0,0,51
+3/216: 0,0,102
+4/216: 0,0,153
+5/216: 0,0,204
+6/216: 0,0,255
+7/216: 0,51,0
+8/216: 0,51,51
+9/216: 0,51,102
+10/216: 0,51,153
+11/216: 0,51,204
+12/216: 0,51,255
+13/216: 0,102,0
+14/216: 0,102,51
+15/216: 0,102,102
+16/216: 0,102,153
+17/216: 0,102,204
+18/216: 0,102,255
+19/216: 0,153,0
+20/216: 0,153,51
+21/216: 0,153,102
+22/216: 0,153,153
+23/216: 0,153,204
+24/216: 0,153,255
+25/216: 0,204,0
+26/216: 0,204,51
+27/216: 0,204,102
+28/216: 0,204,153
+29/216: 0,204,204
+30/216: 0,204,255
+31/216: 0,255,0
+32/216: 0,255,51
+33/216: 0,255,102
+34/216: 0,255,153
+35/216: 0,255,204
+36/216: 0,255,255
+37/216: 51,0,0
+38/216: 51,0,51
+39/216: 51,0,102
+40/216: 51,0,153
+41/216: 51,0,204
+42/216: 51,0,255
+43/216: 51,51,0
+44/216: 51,51,51
+45/216: 51,51,102
+46/216: 51,51,153
+47/216: 51,51,204
+48/216: 51,51,255
+49/216: 51,102,0
+50/216: 51,102,51
+51/216: 51,102,102
+52/216: 51,102,153
+53/216: 51,102,204
+54/216: 51,102,255
+55/216: 51,153,0
+56/216: 51,153,51
+57/216: 51,153,102
+58/216: 51,153,153
+59/216: 51,153,204
+60/216: 51,153,255
+61/216: 51,204,0
+62/216: 51,204,51
+63/216: 51,204,102
+64/216: 51,204,153
+65/216: 51,204,204
+66/216: 51,204,255
+67/216: 51,255,0
+68/216: 51,255,51
+69/216: 51,255,102
+70/216: 51,255,153
+71/216: 51,255,204
+72/216: 51,255,255
+73/216: 102,0,0
+74/216: 102,0,51
+75/216: 102,0,102
+76/216: 102,0,153
+77/216: 102,0,204
+78/216: 102,0,255
+79/216: 102,51,0
+80/216: 102,51,51
+81/216: 102,51,102
+82/216: 102,51,153
+83/216: 102,51,204
+84/216: 102,51,255
+85/216: 102,102,0
+86/216: 102,102,51
+87/216: 102,102,102
+88/216: 102,102,153
+89/216: 102,102,204
+90/216: 102,102,255
+91/216: 102,153,0
+92/216: 102,153,51
+93/216: 102,153,102
+94/216: 102,153,153
+95/216: 102,153,204
+96/216: 102,153,255
+97/216: 102,204,0
+98/216: 102,204,51
+99/216: 102,204,102
+100/216: 102,204,153
+101/216: 102,204,204
+102/216: 102,204,255
+103/216: 102,255,0
+104/216: 102,255,51
+105/216: 102,255,102
+106/216: 102,255,153
+107/216: 102,255,204
+108/216: 102,255,255
+109/216: 153,0,0
+110/216: 153,0,51
+111/216: 153,0,102
+112/216: 153,0,153
+113/216: 153,0,204
+114/216: 153,0,255
+115/216: 153,51,0
+116/216: 153,51,51
+117/216: 153,51,102
+118/216: 153,51,153
+119/216: 153,51,204
+120/216: 153,51,255
+121/216: 153,102,0
+122/216: 153,102,51
+123/216: 153,102,102
+124/216: 153,102,153
+125/216: 153,102,204
+126/216: 153,102,255
+127/216: 153,153,0
+128/216: 153,153,51
+129/216: 153,153,102
+130/216: 153,153,153
+131/216: 153,153,204
+132/216: 153,153,255
+133/216: 153,204,0
+134/216: 153,204,51
+135/216: 153,204,102
+136/216: 153,204,153
+137/216: 153,204,204
+138/216: 153,204,255
+139/216: 153,255,0
+140/216: 153,255,51
+141/216: 153,255,102
+142/216: 153,255,153
+143/216: 153,255,204
+144/216: 153,255,255
+145/216: 204,0,0
+146/216: 204,0,51
+147/216: 204,0,102
+148/216: 204,0,153
+149/216: 204,0,204
+150/216: 204,0,255
+151/216: 204,51,0
+152/216: 204,51,51
+153/216: 204,51,102
+154/216: 204,51,153
+155/216: 204,51,204
+156/216: 204,51,255
+157/216: 204,102,0
+158/216: 204,102,51
+159/216: 204,102,102
+160/216: 204,102,153
+161/216: 204,102,204
+162/216: 204,102,255
+163/216: 204,153,0
+164/216: 204,153,51
+165/216: 204,153,102
+166/216: 204,153,153
+167/216: 204,153,204
+168/216: 204,153,255
+169/216: 204,204,0
+170/216: 204,204,51
+171/216: 204,204,102
+172/216: 204,204,153
+173/216: 204,204,204
+174/216: 204,204,255
+175/216: 204,255,0
+176/216: 204,255,51
+177/216: 204,255,102
+178/216: 204,255,153
+179/216: 204,255,204
+180/216: 204,255,255
+181/216: 255,0,0
+182/216: 255,0,51
+183/216: 255,0,102
+184/216: 255,0,153
+185/216: 255,0,204
+186/216: 255,0,255
+187/216: 255,51,0
+188/216: 255,51,51
+189/216: 255,51,102
+190/216: 255,51,153
+191/216: 255,51,204
+192/216: 255,51,255
+193/216: 255,102,0
+194/216: 255,102,51
+195/216: 255,102,102
+196/216: 255,102,153
+197/216: 255,102,204
+198/216: 255,102,255
+199/216: 255,153,0
+200/216: 255,153,51
+201/216: 255,153,102
+202/216: 255,153,153
+203/216: 255,153,204
+204/216: 255,153,255
+205/216: 255,204,0
+206/216: 255,204,51
+207/216: 255,204,102
+208/216: 255,204,153
+209/216: 255,204,204
+210/216: 255,204,255
+211/216: 255,255,0
+212/216: 255,255,51
+213/216: 255,255,102
+214/216: 255,255,153
+215/216: 255,255,204
+216/216: 255,255,255
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 1.00 seconds
+Results:
+{'COLOR_COUNT': 216,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Web216.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+
+Processing algorithm 57/57…
+Algorithm Convert ESRI style to GPL color palette starting…
+Input parameters:
+{'INPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Win256.style',
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Win256.gpl'}
+
+Importing colors from D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - Win256.style
+Found 256 colors
+1/256: 0,0,0
+2/256: 0,0,51
+3/256: 0,0,102
+4/256: 0,0,153
+5/256: 0,0,204
+6/256: 0,0,255
+7/256: 0,51,0
+8/256: 0,51,51
+9/256: 0,51,102
+10/256: 0,51,153
+11/256: 0,51,204
+12/256: 0,51,255
+13/256: 0,102,0
+14/256: 0,102,51
+15/256: 0,102,102
+16/256: 0,102,153
+17/256: 0,102,204
+18/256: 0,102,255
+19/256: 0,153,0
+20/256: 0,153,51
+21/256: 0,153,102
+22/256: 0,153,153
+23/256: 0,153,204
+24/256: 0,153,255
+25/256: 0,204,0
+26/256: 0,204,51
+27/256: 0,204,102
+28/256: 0,204,153
+29/256: 0,204,204
+30/256: 0,204,255
+31/256: 0,255,0
+32/256: 0,255,51
+33/256: 0,255,102
+34/256: 0,255,153
+35/256: 0,255,204
+36/256: 0,255,255
+37/256: 51,0,0
+38/256: 51,0,51
+39/256: 51,0,102
+40/256: 51,0,153
+41/256: 51,0,204
+42/256: 51,0,255
+43/256: 51,51,0
+44/256: 51,51,51
+45/256: 51,51,102
+46/256: 51,51,153
+47/256: 51,51,204
+48/256: 51,51,255
+49/256: 51,102,0
+50/256: 51,102,51
+51/256: 51,102,102
+52/256: 51,102,153
+53/256: 51,102,204
+54/256: 51,102,255
+55/256: 51,153,0
+56/256: 51,153,51
+57/256: 51,153,102
+58/256: 51,153,153
+59/256: 51,153,204
+60/256: 51,153,255
+61/256: 51,204,0
+62/256: 51,204,51
+63/256: 51,204,102
+64/256: 51,204,153
+65/256: 51,204,204
+66/256: 51,204,255
+67/256: 51,255,0
+68/256: 51,255,51
+69/256: 51,255,102
+70/256: 51,255,153
+71/256: 51,255,204
+72/256: 51,255,255
+73/256: 102,0,0
+74/256: 102,0,51
+75/256: 102,0,102
+76/256: 102,0,153
+77/256: 102,0,204
+78/256: 102,0,255
+79/256: 102,51,0
+80/256: 102,51,51
+81/256: 102,51,102
+82/256: 102,51,153
+83/256: 102,51,204
+84/256: 102,51,255
+85/256: 102,102,0
+86/256: 102,102,51
+87/256: 102,102,102
+88/256: 102,102,153
+89/256: 102,102,204
+90/256: 102,102,255
+91/256: 102,153,0
+92/256: 102,153,51
+93/256: 102,153,102
+94/256: 102,153,153
+95/256: 102,153,204
+96/256: 102,153,255
+97/256: 102,204,0
+98/256: 102,204,51
+99/256: 102,204,102
+100/256: 102,204,153
+101/256: 102,204,204
+102/256: 102,204,255
+103/256: 102,255,0
+104/256: 102,255,51
+105/256: 102,255,102
+106/256: 102,255,153
+107/256: 102,255,204
+108/256: 102,255,255
+109/256: 153,0,0
+110/256: 153,0,51
+111/256: 153,0,102
+112/256: 153,0,153
+113/256: 153,0,204
+114/256: 153,0,255
+115/256: 153,51,0
+116/256: 153,51,51
+117/256: 153,51,102
+118/256: 153,51,153
+119/256: 153,51,204
+120/256: 153,51,255
+121/256: 153,102,0
+122/256: 153,102,51
+123/256: 153,102,102
+124/256: 153,102,153
+125/256: 153,102,204
+126/256: 153,102,255
+127/256: 153,153,0
+128/256: 153,153,51
+129/256: 153,153,102
+130/256: 153,153,153
+131/256: 153,153,204
+132/256: 153,153,255
+133/256: 204,0,51
+134/256: 204,0,102
+135/256: 204,0,153
+136/256: 204,0,204
+137/256: 204,0,255
+138/256: 204,51,0
+139/256: 204,51,51
+140/256: 204,51,102
+141/256: 204,51,153
+142/256: 204,51,204
+143/256: 204,51,255
+144/256: 204,102,0
+145/256: 204,102,51
+146/256: 204,102,102
+147/256: 204,102,153
+148/256: 204,102,204
+149/256: 204,102,255
+150/256: 204,153,0
+151/256: 204,153,51
+152/256: 204,153,102
+153/256: 204,153,153
+154/256: 204,153,204
+155/256: 204,153,255
+156/256: 204,204,0
+157/256: 204,204,51
+158/256: 204,204,102
+159/256: 204,204,153
+160/256: 204,204,204
+161/256: 204,204,255
+162/256: 204,255,0
+163/256: 204,255,51
+164/256: 204,255,102
+165/256: 204,255,153
+166/256: 204,255,204
+167/256: 204,255,255
+168/256: 255,0,0
+169/256: 255,0,51
+170/256: 255,0,102
+171/256: 255,0,153
+172/256: 255,0,204
+173/256: 255,0,255
+174/256: 255,51,0
+175/256: 255,51,51
+176/256: 255,51,102
+177/256: 255,51,153
+178/256: 255,51,204
+179/256: 255,51,255
+180/256: 255,102,0
+181/256: 255,102,51
+182/256: 255,102,102
+183/256: 255,102,153
+184/256: 255,102,204
+185/256: 255,102,255
+186/256: 255,153,0
+187/256: 255,153,51
+188/256: 255,153,102
+189/256: 255,153,153
+190/256: 255,153,204
+191/256: 255,153,255
+192/256: 255,204,0
+193/256: 255,204,51
+194/256: 255,204,102
+195/256: 255,204,153
+196/256: 255,204,204
+197/256: 255,204,255
+198/256: 255,255,0
+199/256: 255,255,51
+200/256: 255,255,102
+201/256: 255,255,153
+202/256: 255,255,204
+203/256: 255,255,255
+204/256: 0,0,0
+205/256: 7,7,7
+206/256: 13,13,13
+207/256: 20,20,20
+208/256: 26,26,26
+209/256: 33,33,33
+210/256: 39,39,39
+211/256: 46,46,46
+212/256: 52,52,52
+213/256: 59,59,59
+214/256: 65,65,65
+215/256: 72,72,72
+216/256: 78,78,78
+217/256: 85,85,85
+218/256: 92,92,92
+219/256: 98,98,98
+220/256: 105,105,105
+221/256: 111,111,111
+222/256: 118,118,118
+223/256: 124,124,124
+224/256: 131,131,131
+225/256: 137,137,137
+226/256: 144,144,144
+227/256: 150,150,150
+228/256: 157,157,157
+229/256: 163,163,163
+230/256: 170,170,170
+231/256: 177,177,177
+232/256: 183,183,183
+233/256: 190,190,190
+234/256: 196,196,196
+235/256: 203,203,203
+236/256: 153,204,0
+237/256: 153,204,51
+238/256: 153,204,102
+239/256: 153,204,153
+240/256: 153,204,204
+241/256: 153,204,255
+242/256: 153,255,0
+243/256: 153,255,51
+244/256: 153,255,102
+245/256: 153,255,153
+246/256: 153,255,204
+247/256: 153,255,255
+248/256: 204,0,0
+249/256: 209,209,209
+250/256: 216,216,216
+251/256: 222,222,222
+252/256: 229,229,229
+253/256: 235,235,235
+254/256: 242,242,242
+255/256: 248,248,248
+256/256: 255,255,255
+Algorithm Convert ESRI style to GPL color palette correctly executed…
+Execution completed in 1.13 seconds
+Results:
+{'COLOR_COUNT': 256,
+'OUTPUT': 'D:/Users/USERNAME/Desktop/ESRI Style/10.8.1/ESRI - '
+'Win256.gpl',
+'UNREADABLE_COLOR_COUNT': 0}
+
+Loading resulting layers
+Batch execution completed in 22.71 seconds

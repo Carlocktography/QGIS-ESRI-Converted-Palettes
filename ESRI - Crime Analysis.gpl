@@ -1,0 +1,16 @@
+GIMP Palette
+Name: ESRI - Crime Analysis
+Columns: 4
+#
+189 121 154 Sector Boundary
+50 50 50 City Limits Boundary
+168 56 0 Beat Boundary
+255 255 255 Beat Background
+140 140 140 Residential Street
+240 0 0 Highway or Ramp
+151 219 242 Water Body
+64 101 235 Water Outline
+115 178 115 Park/Open Area
+0 0 0 Icon Black
+160 160 160 Icon Grey
+246 248 126 Background Yellow
